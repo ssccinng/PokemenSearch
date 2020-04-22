@@ -26,10 +26,10 @@ namespace PokemenSearch
             {
                 name += string.Format("(+{0} -{1})", aa[up], aa[down]);
             }
-            this.name = name;
-            this.up = up;
-            this.down = down;
-            this.rss = rss;
+            this.name   = name;
+            this.up     = up;
+            this.down   = down;
+            this.rss    = rss;
         }
     }
 }

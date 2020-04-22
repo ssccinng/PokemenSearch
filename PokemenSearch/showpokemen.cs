@@ -20,14 +20,22 @@ namespace PokemenSearch
         string[] allpoke;
         Hashtable poketonum;
         string[] Typelist;
+        string[] Txlist = load_data.loadpokemenTX();
         Label[] power;
         Label[] title;
         string wanttoshow;
-        canusepokemen[] player = new canusepokemen[803];
+        canusepokemen[] player = new canusepokemen[1000];
         string[] sexge = load_data.getsexname();
         string[] rssguo = load_data.getrss();
         Sexge[] xingge = new Sexge[26];
         Hashtable sexgenum = new Hashtable();
+        ZSmin[] zsmin = new ZSmin[6];
+        int ZSnum = 0;
+        struct ZSmin
+        {
+            public Label min;
+            public Button del;
+        };
         public showpokemen()
         {
             InitializeComponent();
@@ -39,13 +47,29 @@ namespace PokemenSearch
         {
             power = new Label[6];
             title = new Label[6];
+            poketonum = new Hashtable();
+            
+            pokemensdec = new string[1000];
+            pokemens = new Hashtable();
+            pokemens = PokemenSearch.load_data.GetPokemen(ref pokemensdec, ref poketonum);
 
             for (int i = 0; i < 6; ++i)
             {
                 power[i] = new Label();
                 title[i] = new Label();
+                zsmin[i].min = new Label();
+                zsmin[i].min.Text = i.ToString();
+                zsmin[i].del = new Button();
+                zsmin[i].del.Tag = i + 1;
+                zsmin[i].del.Size = new Size(21, 21);
+                zsmin[i].del.Text = "x";
+                zsmin[i].del.Click += new EventHandler(ZSUP);
                 power[i].Location = new System.Drawing.Point(406, 95 + 26 * i);
                 title[i].Location = new System.Drawing.Point(202, 95 + 26 * i);
+                zsmin[i].min.Location = new System.Drawing.Point(20, 44 + 26 * i);
+                zsmin[i].del.Location = new System.Drawing.Point(120, 40 + 26 * i);
+                zsmin[i].del.Visible = false;
+                zsmin[i].min.Visible = false;
             }
             power[0].Name = "PoHP";
             power[1].Name = "PoAtk";
@@ -63,8 +87,10 @@ namespace PokemenSearch
             {
                 Controls.Add(power[i]);
                 Controls.Add(title[i]);
+                ZSlist1.Controls.Add(zsmin[i].del);
+                ZSlist1.Controls.Add(zsmin[i].min);
             }
-            for (int i = 0; i < 803; ++i)
+            for (int i = 0; i < player.Length; ++i)
             {
                 player[i] = new canusepokemen();
             }
@@ -77,25 +103,34 @@ namespace PokemenSearch
             }
             Sex.Text = xingge[1].name;
 
-            
+
             Texin = PokemenSearch.load_data.loadtexin();
             zhaoshi = PokemenSearch.load_data.loadzhaoshi();
-            pokemens = new Hashtable();
-            pokemensdec = new string[803];
             allpoke = load_data.loadpokemenname();
-            poketonum = new Hashtable();
             Typelist = load_data.loadpokemenTYPE();
             load_data.AutoTexin(TX);
             load_data.AutoZS(ZS);
-            
-            
-            pokemens = PokemenSearch.load_data.GetPokemen(ref pokemensdec);
-            for (int i = 1; i < 803; ++i)
-            {
-                poketonum[allpoke[i]] = i;
-            }
+            load_data.Autoname(AfterSearch);
+            sorttag.SelectedIndex = 0;
+            //for (int i = 1; i < allpoke.Length; ++i)
+            //{
+            //    poketonum[allpoke[i]] = i;
+            //}
             Type1.Text = Type2.Text = "(无)";
-            SD.Text = "第七世代";
+            SD.Text = "迦勒尔图鉴";
+        }
+
+        private void ZSUP(object sender, EventArgs e)
+        {
+            if (ZSnum == 0) return;
+            for (int i = (int)((Button)sender).Tag; i < ZSnum; ++i)
+            {
+                zsmin[i - 1].min.Text = zsmin[i].min.Text;
+            }
+            ZSnum--;
+            zsmin[ZSnum].del.Visible = false;
+            zsmin[ZSnum].min.Visible = false;
+            updata();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -105,7 +140,7 @@ namespace PokemenSearch
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            updata();
+            //updata();
         }
 
         private void updata()
@@ -126,137 +161,263 @@ namespace PokemenSearch
             }
             else
             {
-                wanttoshow = "斗笠菇";
+                wanttoshow = "伊布";
                 updataimage();
                 updata6V();
             }
-
+            upxinge();
         }
-        int shidai = 6;
+        int shidai = 0;
         private string updataPKlist()
         {
             string type1 = Type1.Text, type2 = Type2.Text;
-            string sd = SD.Text;
+            //string sd = SD.Text;
             string sex = Sex.Text;
             string tx = TX.Text, zs = ZS.Text;
             StringBuilder ret = new StringBuilder();
-            switch (sd)
-            {
-                case "第一世代": shidai = 0; break;
-                case "第二世代": shidai = 1; break;
-                case "第三世代": shidai = 2; break;
-                case "第四世代": shidai = 3; break;
-                case "第五世代": shidai = 4; break;
-                case "第六世代": shidai = 5; break;
-                case "第七世代": shidai = 6; break;
-                default: break;
-            }
+            Hashtable rret = new Hashtable();
+            //switch (sd)
+            //{
+            //    //case "第一世代": shidai = 0; break;
+            //    //case "第二世代": shidai = 1; break;
+            //    //case "第三世代": shidai = 2; break;
+            //    //case "第四世代": shidai = 3; break;
+            //    //case "第五世代": shidai = 4; break;
+            //    //case "第六世代": shidai = 5; break;
+            //    //case "第七世代": shidai = 6; break;
+            //    default: break;
+            //}
             string[] texinlist = (tx != "" ? (string[])Texin[tx] : load_data.loadpokemenname());
             if (texinlist == null) return null;
-            foreach (string PoinTx in texinlist)
+            
+            if (ZSnum == 0)
             {
-                if (PoinTx != tx)
+                int flag1 = 0;
+                foreach (string poke in texinlist)
                 {
-                    string[] pokelist = pokemensdec[(int)(poketonum[PoinTx])].Split(',');
-                    bool flag = false;
-                    foreach (string zs1 in ((string[])zhaoshi[shidai][PoinTx]))
+                    if (flag1 == 0)
                     {
-                        if (zs == "" || zs == zs1)
-                        {
-                            flag = true;
-                            break;
-                        }
+                        flag1 = 1;
+                        continue;
                     }
-                    if (!flag) continue;
-                    if (((Pokemen)pokemens[PoinTx]) != null && ((Pokemen)pokemens[PoinTx]).diffstat)
+                    if (((Pokemen)pokemens[poke]).isType(type1, type2))
                     {
-                        if(PoinTx == "洛托姆")
+                        if (rret.Contains(poke))
                         {
-                            if (shidai > 4)
-                            {
-                                int tag = 0;
-                                foreach (string poke in pokelist)
-                                {
-                                    if (((Pokemen)pokemens[PoinTx]).havespZ(zs, shidai))
-                                    {
-                                        tag = 1;
-                                        if (((Pokemen)pokemens[poke]).isTX(tx) && ((Pokemen)pokemens[poke]).isType(type1, type2))
-                                        {
-                                            if (ret.ToString() == "") ret.Append(poke);
-                                            else ret.Append(',' + poke);
-                                        }
-                                        break;
-                                    }
-                                }
-                                if (tag == 1) continue;
-                            }
-                            else
-                            {
-                                
-                            }
-                        }
-                        else if (pokelist[1].IndexOf("阿罗拉") != -1)
-                        {
-                            if (shidai == 6)
-                            {
-                                int tag = 0;
-                                foreach (string poke in pokelist)
-                                {
-                                    if (((Pokemen)pokemens[poke]).havespZ(zs, shidai))
-                                    {
-                                        tag = 1;
-                                        if (((Pokemen)pokemens[poke]).isTX(tx) && ((Pokemen)pokemens[poke]).isType(type1, type2))
-                                        {
-                                            if (ret.ToString() == "") ret.Append(poke);
-                                            else ret.Append(',' + poke);
-                                        }
-                                        break;
-                                    }
-                                }
-                                if (tag == 1) continue;
-                            }
-                            else
-                            {
-                                
-                            }
+                            rret[poke] = ((int)(rret[poke])) + 1;
                         }
                         else
                         {
-                            int tag = 0;
-                            foreach (string poke in pokelist)
-                            {
-                                if (((Pokemen)pokemens[PoinTx]).havespZ(zs, shidai))
-                                {
-                                    tag = 1;
-                                    if (((Pokemen)pokemens[poke]).isTX(tx) && ((Pokemen)pokemens[poke]).isType(type1, type2))
-                                    {
-                                        if (ret.ToString() == "") ret.Append(poke);
-                                        else ret.Append(',' + poke);
-                                    }
-                                    break;
-                                }
-                            }
-                            if (tag == 1) continue;
-                        }
-                    }
-                    foreach (string poke in pokelist)
-                    {
-                        if (((Pokemen)pokemens[poke]).isTX(tx) && ((Pokemen)pokemens[poke]).isType(type1, type2) && (shidai == 6 || pokelist.Length != 2 || pokelist[1].IndexOf("阿罗拉") == -1))
-                        {
-                            if (ret.ToString() == "") ret.Append(poke);
-                            else ret.Append(',' + poke);
+                            rret[poke] = 1;
                         }
                     }
                 }
 
             }
+            else
+            {
+                foreach (string PoinTx in texinlist)
+                {
+                    if (PoinTx != tx)
+                    {
+                        //string[] pokelist = pokemensdec[(int)(poketonum[PoinTx])].Split(',');
 
+
+
+                        for (int i = 0; i < Math.Max(ZSnum, 1); ++i)
+                        {
+                            if (ZSnum == 0) zs = "";
+                            else zs = zsmin[i].min.Text;
+                            bool flag = false;
+                            foreach (string zs1 in ((string[])zhaoshi[0][PoinTx]))
+                            {
+                                if (zs == "" || zs == zs1 || zs == zs1.Split('-')[0])
+                                {
+                                    flag = true;
+                                    break;
+                                }
+                            }
+                            if (!flag) continue;
+
+                            //foreach (string poke in pokelist)
+                            //{
+                                if (((Pokemen)pokemens[PoinTx]).isTX(tx) && ((Pokemen)pokemens[PoinTx]).isType(type1, type2))
+                                {
+                                    if (rret.Contains(PoinTx))
+                                    {
+                                        rret[PoinTx] = ((int)(rret[PoinTx])) + 1;
+                                    }
+                                    else
+                                    {
+                                        rret[PoinTx] = 1;
+                                    }
+                                //}
+                            }
+                        }
+
+                    }
+
+                }
+            }
+            string[] tli = new string[rret.Count];
+            int index = 0;
+            foreach (DictionaryEntry i in rret)
+            {
+                if ((int)i.Value >= ZSnum)
+                {
+                    tli[index++] = (string)i.Key;
+                }
+                //if (ret.ToString() == "") ret.Append((string)i.Key);
+                //else ret.Append(',' + (string)i.Key);
+
+
+            }
+            //string[] tli = ret.ToString().Split(',');
+            int[] comp = new int[index];
+            //for (int i = 0; i < index; ++i)
+            //{
+            //    comp[i] = (int)poketonum[tli[i]];
+            //}
+            //for (int i = 0; i < index; ++i)
+            //{
+            //    comp[i] =  -((Pokemen)pokemens[tli[i]]).RacialValue.SumRacial;
+            //}
+            switch (sorttag.SelectedIndex)
+
+        
+            {
+
+                case 0:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = (int)poketonum[tli[i]];
+                    }
+                    break;
+                case 1:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.SumRacial;
+                    }
+                    break;
+                case 2:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.SumRacial;
+                    }
+                    break;
+                case 3:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.HP;
+                    }
+                    break;
+                case 4:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.HP;
+                    }
+                    break;
+                case 5:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.Atk;
+                    }
+                    break;
+                case 6:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.Atk;
+                    }
+                    break;
+                case 7:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.Def;
+                    }
+                    break;
+                case 8:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.Def;
+                    }
+                    break;
+                case 9:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.Spa;
+                    }
+                    break;
+                case 10:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.Spa;
+                    }
+                    break;
+                case 11:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.Spf;
+                    }
+                    break;
+                case 12:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.Spf;
+                    }
+                    break;
+                case 13:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.Spe;
+                    }
+                    break;
+                case 14:
+                    for (int i = 0; i < index; ++i)
+                    {
+                        comp[i] = ((Pokemen)pokemens[tli[i]]).RacialValue.Spe;
+                    }
+                    break;
+                default:
+                    break;
+            }
+            //if (sortra.Checked)
+            //{
+            //    for (int i = 0; i < index; ++i)
+            //    {
+            //        comp[i] = -((Pokemen)pokemens[tli[i]]).RacialValue.SumRacial;
+            //    }
+            //    Array.Sort(comp, tli);
+
+            //}
+            //else
+            //{
+            //    for (int i = 0; i < index; ++i)
+            //    {
+            //        comp[i] = (int)poketonum[tli[i]];
+            //    }
+                
+
+            //}
+            Array.Sort(comp, tli);
+            ret = new StringBuilder();
+            for (int i = 0; i < index; ++i)
+            {
+                if (ret.ToString() == "") ret.Append(tli[i]);
+                else ret.Append(',' + tli[i]);
+            }
+            //foreach (string i in tli)
+            //{
+
+                
+
+
+            //}
             return ret.ToString();
         }
 
         private void label7_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
@@ -310,7 +471,7 @@ namespace PokemenSearch
         {
             if (stat.Text == wanttoshow || wanttoshow == null) return;
             //pokehead.Image = (Image)pokemenhead.ResourceManager.GetObject("六尾");
-            pokename.Text = allpoke[((Pokemen)pokemens[wanttoshow]).num];
+            pokename.Text = wanttoshow;// allpoke[((Pokemen)pokemens[wanttoshow]).num];
             string[] aflist = pokemensdec[((Pokemen)pokemens[wanttoshow]).num].Split(',');
             stat.Items.Clear();
             foreach (string item in aflist)
@@ -339,13 +500,12 @@ namespace PokemenSearch
 
             level.Text = player[((Pokemen)(pokemens[wanttoshow])).num].level.ToString();
 
-
             //PoAtk.Text = ((int)((int.Parse(RAtk.Text) * 2 + int.Parse(PAtk.Text) + (Math.Sqrt(int.Parse(HAtk.Text)) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
             //PoDef.Text = ((int)((int.Parse(RDef.Text) * 2 + int.Parse(PDef.Text) + (Math.Sqrt(int.Parse(HDef.Text)) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
             //PoSpa.Text = ((int)((int.Parse(RSpa.Text) * 2 + int.Parse(PSpa.Text) + (Math.Sqrt(int.Parse(HSpa.Text)) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
             //PoSpf.Text = ((int)((int.Parse(RSpf.Text) * 2 + int.Parse(PSpf.Text) + (Math.Sqrt(int.Parse(HSpf.Text)) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
             //PoSpe.Text = ((int)((int.Parse(RSpe.Text) * 2 + int.Parse(PSpe.Text) + (Math.Sqrt(int.Parse(HSpe.Text)) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
-            upxg();
+            //upxg();
             uppow();
             //object obj = ResourceManager.GetObject(AfterSearch.Text);
             //object obj = ResourceManager.GetObject("资源名称", resourceCulture);
@@ -412,17 +572,43 @@ namespace PokemenSearch
             power[3].Text = ((int)((int.Parse(RSpa.Text) * 2 + int.Parse(PSpa.Text) + (int.Parse(HSpa.Text) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
             power[4].Text = ((int)((int.Parse(RSpf.Text) * 2 + int.Parse(PSpf.Text) + (int.Parse(HSpf.Text) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
             power[5].Text = ((int)((int.Parse(RSpe.Text) * 2 + int.Parse(PSpe.Text) + (int.Parse(HSpe.Text) / 4)) * int.Parse(level.Text) / 100 + 5)).ToString();
+            upxinge();
+            //upxg();
         }
 
         private void updataimage()
         {
             if (wanttoshow == null) return;
-            pokehead.Image = (Image)pokemenhead.ResourceManager.GetObject(wanttoshow.Replace('-', 'T'));
+
+            pokehead.Image = (Image)pokemenhead.ResourceManager.GetObject(wanttoshow.Replace('-', 'T').Replace("（", "T").Replace("）", "").Replace("：", "T"));
+
+
+            evfield.Text = "HP: " + ((Pokemen)(pokemens[wanttoshow])).EVfield.HP.ToString();
+            evfield.Text += ";物攻: " + ((Pokemen)(pokemens[wanttoshow])).EVfield.Atk.ToString();
+            evfield.Text += ";物防: " + ((Pokemen)(pokemens[wanttoshow])).EVfield.Def.ToString();
+            evfield.Text += "\n特攻: " + ((Pokemen)(pokemens[wanttoshow])).EVfield.Spa.ToString();
+            evfield.Text += ";特防: " + ((Pokemen)(pokemens[wanttoshow])).EVfield.Spf.ToString();
+            evfield.Text += ";速度: " + ((Pokemen)(pokemens[wanttoshow])).EVfield.Spe.ToString();
+
+            typel.Text = "属性: " + Typelist[ ((Pokemen)(pokemens[wanttoshow])).type1];
+            if (((Pokemen)(pokemens[wanttoshow])).type2 != 0)
+            {
+                typel.Text += "\n      " + Typelist[((Pokemen)(pokemens[wanttoshow])).type2];
+            }
+
+            egggroup.Text = "蛋组:  " + ((Pokemen)(pokemens[wanttoshow])).egggroup;
+
+            TXp.Text = "普特:  " + Txlist[ ((Pokemen)(pokemens[wanttoshow])).feature1];
+            if (((Pokemen)(pokemens[wanttoshow])).feature2 != 0)
+                TXp.Text += " / " + Txlist[((Pokemen)(pokemens[wanttoshow])).feature2];
+            TXM.Text = "梦特:  " + Txlist[((Pokemen)(pokemens[wanttoshow])).featuresDream];
         }
 
         private void stat_SelectedIndexChanged(object sender, EventArgs e)
         {
             wanttoshow = stat.Text;
+            pokename.Text = wanttoshow;
+
             updataimage();
             
 
@@ -645,9 +831,9 @@ namespace PokemenSearch
                     gg(HSpa);
                 }
                 uphard();
-                uppow();
-            }
+            uppow();
 
+            }
         }
 
         private void HSpe_TextChanged(object sender, EventArgs e)
@@ -662,9 +848,9 @@ namespace PokemenSearch
                     gg(HSpe);
                 }
                 uphard();
-                uppow();
-            }
+            uppow();
 
+            }
         }
 
         private void upxinge()
@@ -682,14 +868,14 @@ namespace PokemenSearch
             title[xingge[(int)sexgenum[Sex.Text]].down].ForeColor = Color.Blue;
 
             power[xingge[(int)sexgenum[Sex.Text]].up].Text = ((int)(int.Parse(power[xingge[(int)sexgenum[Sex.Text]].up].Text) * 1.1)).ToString();
-            power[xingge[(int)sexgenum[Sex.Text]].down].Text = ((int)(int.Parse(power[xingge[(int)sexgenum[Sex.Text]].up].Text) * 0.9)).ToString();
+            power[xingge[(int)sexgenum[Sex.Text]].down].Text = ((int)(int.Parse(power[xingge[(int)sexgenum[Sex.Text]].down].Text) * 0.9)).ToString();
             rss.Text = "不可食用的rss果:" + rssguo[xingge[(int)sexgenum[Sex.Text]].rss];
         }
 
         private void Sex_SelectedIndexChanged(object sender, EventArgs e)
         {
             uppow();
-            upxinge();
+            //upxinge();
            
             
         }
@@ -789,6 +975,7 @@ namespace PokemenSearch
             {
                 ((TextBox)sender).Text = "0";
             }
+            uppow();
         }
 
         private void PSpe_KeyUp(object sender, KeyEventArgs e)
@@ -802,6 +989,68 @@ namespace PokemenSearch
             {
                 e.Handled = true;
             }
+        }
+
+        private void ZSt_Click(object sender, EventArgs e)
+        {
+            if (ZSnum >= 6) return;
+            if (ZS.Text == "") return;
+            for (int i = 0; i < ZSnum; ++i)
+            {
+                if (ZS.Text == zsmin[i].min.Text) return;
+            }
+            zsmin[ZSnum].min.Text = ZS.Text;
+            zsmin[ZSnum].del.Visible = true;
+            zsmin[ZSnum].min.Visible = true;
+            ZSnum++;
+
+            updata();
+        }
+        private void CLEAR1()
+        {
+            for (int i = 0; i < ZSnum; ++i)
+            {
+                zsmin[i].del.Visible = false;
+                zsmin[i].min.Visible = false;
+            }
+            ZSnum = 0;
+            //updata();
+        }
+        private void CLEAR_Click(object sender, EventArgs e)
+        {
+            CLEAR1();
+            updata();
+        }
+
+        private void sortra_CheckedChanged(object sender, EventArgs e)
+        {
+            updata();
+        }
+
+        private void AfterSearch_TextChanged(object sender, EventArgs e)
+        {
+            if(((ComboBox)sender).Items.Contains(((ComboBox)sender).Text))
+            {
+                wanttoshow = ((ComboBox)sender).Text;
+                updataimage();
+                updata6V();
+            }
+        }
+
+        private void info_Click(object sender, EventArgs e)
+        {
+            // 展示页面
+
+        }
+
+        private void sorttag_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            updata();
+        }
+
+        private void evfield_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

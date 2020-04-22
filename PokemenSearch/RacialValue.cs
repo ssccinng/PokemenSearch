@@ -31,15 +31,15 @@ namespace PokemenSearch
         {
             HP = Atk = Def = Spa = Spf = Spe = 31;
         }
-        //public Racial(int HP, int Atk, int Def, int Spa, int Spf, int Spe)
-        //{
-        //    this.HP = HP;
-        //    this.Atk = Atk;
-        //    this.Def = Def;
-        //    this.Spa = Spa;
-        //    this.Spf = Spf;
-        //    this.Spe = Spe;
-        //    this.SumRacial = HP + Atk + Def + Spa + Spf + Spe;
-        //}
+        public void setf(int HP, int Atk, int Def, int Spa, int Spf, int Spe)
+        {
+            this.HP = HP;
+            this.Atk = Atk;
+            this.Def = Def;
+            this.Spa = Spa;
+            this.Spf = Spf;
+            this.Spe = Spe;
+            //this.SumRacial = HP + Atk + Def + Spa + Spf + Spe;
+        }
     }
 }

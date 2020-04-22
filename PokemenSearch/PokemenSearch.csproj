@@ -86,6 +86,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="showpokemen.resx">
       <DependentUpon>showpokemen.cs</DependentUpon>
@@ -119,9 +120,6 @@
     <None Include="Resources\哎呀球菇.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\艾路雷朵.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\艾姆利多.png" />
   </ItemGroup>
   <ItemGroup>
@@ -131,28 +129,13 @@
     <None Include="Resources\安瓢虫.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\暗黑酋雷姆.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\傲骨燕.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\巴大蝶.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\扒手猫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\芭瓢虫.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\霸王花.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\白海狮.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\百变怪.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\百合根娃娃.png" />
@@ -164,13 +147,7 @@
     <None Include="Resources\败露球菇.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\班基拉斯.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\斑斑马.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\搬运小匠.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\宝包茧.png" />
@@ -197,12 +174,6 @@
     <None Include="Resources\暴飞龙.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\暴鲤龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\暴雪王.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\爆肌蚊.png" />
   </ItemGroup>
   <ItemGroup>
@@ -210,9 +181,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\爆香猿.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\爆焰龟兽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\爆音怪.png" />
@@ -227,28 +195,13 @@
     <None Include="Resources\比克提尼.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\毕力吉翁.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\变隐龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\冰宝.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\冰鬼护.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\冰雪巨龙.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\冰雪龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\冰岩怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\冰伊布.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\波波.png" />
@@ -263,19 +216,7 @@
     <None Include="Resources\波加曼.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\波克比.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\波克基古.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\波克基斯.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\波士可多拉.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\不良蛙.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\布里卡隆.png" />
@@ -300,12 +241,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\差不多娃娃.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\蟾蜍王.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\超坏星.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\超级阿勃梭鲁.png" />
@@ -452,19 +387,10 @@
     <None Include="Resources\超级诅咒娃娃.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\超甲狂犀.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\超梦.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\超能妙喵T雌性的样子.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\超能妙喵T雄性的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\超音波幼虫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\超音蝠.png" />
@@ -482,34 +408,13 @@
     <None Include="Resources\惩戒胡帕.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\齿轮儿.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\齿轮怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\齿轮组.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\赤面龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\炽焰咆哮虎.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\虫宝包.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\虫电宝.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\铳嘴大鸟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\丑丑鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\臭臭花.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\臭臭泥.png" />
@@ -522,9 +427,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\臭泥T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\臭鼬噗.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\触手百合.png" />
@@ -540,12 +442,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\穿山王T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\穿着熊.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\刺甲贝.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\刺龙王.png" />
@@ -569,22 +465,10 @@
     <None Include="Resources\达摩狒狒T普通模式.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\打击鬼.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\大比鸟.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\大朝北鼻.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大葱鸭.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大颚蚁.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大钢蛇.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\大剑鬼.png" />
@@ -597,12 +481,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\大奶罐.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大钳蟹.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大舌贝.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\大舌舔.png" />
@@ -626,12 +504,6 @@
     <None Include="Resources\大牙狸.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\大岩蛇.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大宇怪.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\大针蜂.png" />
   </ItemGroup>
   <ItemGroup>
@@ -641,13 +513,7 @@
     <None Include="Resources\大嘴蝠.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\大嘴鸥.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\大嘴雀.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\大嘴娃.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\呆呆兽.png" />
@@ -660,9 +526,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\呆壳兽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\代拉基翁.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\代欧奇希斯T防御的样子.png" />
@@ -683,37 +546,7 @@
     <None Include="Resources\戴鲁比.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\单卵细胞球.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\单首龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\胆小虫.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\蛋蛋.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\灯火幽灵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\灯笼鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\灯罩夜菇.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\滴蛛.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\滴蛛霸.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\地幔岩.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\地鼠.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\地鼠T阿罗拉的样子.png" />
@@ -729,12 +562,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\蒂安希.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\电灯怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\电电虫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\电飞鼠.png" />
@@ -758,25 +585,13 @@
     <None Include="Resources\电萤虫.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\电蜘蛛.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\蝶结萌虻.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\东施喵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\咚咚鼠.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\冻原熊.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\斗笠菇.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\豆豆鸽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\嘟嘟.png" />
@@ -791,22 +606,10 @@
     <None Include="Resources\毒粉蛾.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\毒骷蛙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\毒蔷薇.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\毒藻龙.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\独剑鞘.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\独角虫.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\独角犀牛.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\盾甲茧.png" />
@@ -828,9 +631,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\多刺菊石兽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\多多冰.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\多丽米亚T歌舞伎造型.png" />
@@ -869,13 +669,7 @@
     <None Include="Resources\饭匙蛇.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\芳香精.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\飞天螳螂.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\飞腿郎.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\霏欧纳.png" />
@@ -890,19 +684,7 @@
     <None Include="Resources\粉蝶蛹.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\粉香香.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\风铃铃.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\风速狗.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\风妖精.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\蜂女王.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\凤王.png" />
@@ -914,9 +696,6 @@
     <None Include="Resources\浮潜鼬.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\斧牙龙.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\负电拍拍.png" />
   </ItemGroup>
   <ItemGroup>
@@ -924,9 +703,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\嘎啦嘎啦T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\盖盖虫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\盖诺赛克特.png" />
@@ -941,37 +717,10 @@
     <None Include="Resources\钢炮臂虾.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\高傲雉鸡.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\哥达鸭.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\哥德宝宝.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\哥德小姐.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\哥德小童.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\耿鬼.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\功夫鼬.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\勾魂眼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\勾帕路翁.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\咕咕.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\咕咕鸽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\咕妞妞.png" />
@@ -995,31 +744,7 @@
     <None Include="Resources\怪颚龙.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\怪力.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\光电伞蜥.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\龟脚脚.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\龟足巨铠.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\鬼斯.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\鬼斯通.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\滚滚蝙蝠.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\聒噪鸟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\果然翁.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\过动猿.png" />
@@ -1043,34 +768,13 @@
     <None Include="Resources\海魔狮.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\海兔兽T东海.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\海兔兽T西海.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\海星星.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\含羞苞.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\豪力.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\好坏星.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\好啦鱿.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\好胜毛蟹.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\好胜蟹.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\河马兽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\赫拉克罗斯.png" />
@@ -1085,25 +789,13 @@
     <None Include="Resources\黑眼鳄.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\黑夜魔灵.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\猴怪.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\吼爆弹.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\吼吼鲸.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\吼鲸王.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\胡地.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\壶壶.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\护城龙.png" />
@@ -1133,9 +825,6 @@
     <None Include="Resources\花岩怪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\花漾海狮.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\花椰猴.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1143,9 +832,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\花叶蒂.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\滑滑小子.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\化石盔.png" />
@@ -1157,13 +843,7 @@
     <None Include="Resources\晃晃斑.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\灰尘山.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\混混鳄.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\火斑喵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\火暴猴.png" />
@@ -1172,16 +852,10 @@
     <None Include="Resources\火暴兽.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\火红不倒翁.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\火狐狸.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\火箭雀.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\火恐龙.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\火球鼠.png" />
@@ -1202,9 +876,6 @@
     <None Include="Resources\火焰鸟.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\火伊布.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\火稚鸡.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1217,9 +888,6 @@
     <None Include="Resources\基格尔德T完全体形态.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\基拉祈.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\吉利蛋.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1227,9 +895,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\几何雪花.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\加热洛托姆.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\甲贺忍蛙.png" />
@@ -1253,9 +918,6 @@
     <None Include="Resources\坚盾剑怪T盾牌形态.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\坚果哑铃.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\毽子草.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1263,18 +925,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\毽子棉.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\角金鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\狡猾天狗.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\杰尼龟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\结冰洛托姆.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\结草儿T草木蓑衣.png" />
@@ -1295,40 +945,22 @@
     <None Include="Resources\结草贵妇T砂土蓑衣.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\捷克罗姆.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\解放胡帕.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\金属怪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\金鱼王.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\惊角鹿.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\九尾.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\九尾T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\狙射树枭.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\驹刀小兵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\菊草叶.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\菊石兽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\巨翅飞鱼.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\巨金怪.png" />
@@ -1340,40 +972,19 @@
     <None Include="Resources\巨钳螳螂.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\巨钳蟹.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\巨牙鲨.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\巨沼怪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\具甲武者.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\卷卷耳.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\掘地兔.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\掘掘兔.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\君主蛇.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\卡比兽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\卡蒂狗.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\卡拉卡拉.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\卡咪龟.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\卡璞T蝶蝶.png" />
@@ -1400,12 +1011,6 @@
     <None Include="Resources\凯西.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\科斯莫古.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\科斯莫姆.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\可达鸭.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1424,16 +1029,7 @@
     <None Include="Resources\口呆花.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\哭哭面具.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\酷豹.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\快龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\快拳郎.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\盔甲鸟.png" />
@@ -1454,25 +1050,13 @@
     <None Include="Resources\拉帝亚斯.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\拉鲁拉丝.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\拉普拉斯.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\喇叭芽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\喇叭啄鸟.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\莱希拉姆.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\兰螳花.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\蓝蟾蜍.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\蓝鳄.png" />
@@ -1481,19 +1065,10 @@
     <None Include="Resources\懒人獭.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\老翁龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\乐天河童.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\勒克猫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\雷电斑马.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\雷电兽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\雷电云T化身形态.png" />
@@ -1517,13 +1092,7 @@
     <None Include="Resources\雷吉斯奇鲁.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\雷丘.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\雷丘T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\雷伊布.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\肋骨海龟.png" />
@@ -1535,22 +1104,10 @@
     <None Include="Resources\冷水猿.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\鲤鱼王.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\力壮鸡.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\利欧路.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\利牙鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\莲帽小童.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\莲叶童子.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\镰刀盔.png" />
@@ -1568,16 +1125,10 @@
     <None Include="Resources\烈焰猴.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\烈焰马.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\烈咬陆鲨.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\猎斑鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\鳞甲龙.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\铃铛响.png" />
@@ -1589,12 +1140,6 @@
     <None Include="Resources\流氓鳄.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\流氓熊猫.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\六尾.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\六尾T阿罗拉的样子.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1602,15 +1147,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\龙卷云T灵兽形态.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\龙头地鼠.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\龙王蝎.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\龙虾小兵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\隆隆石.png" />
@@ -1625,34 +1161,13 @@
     <None Include="Resources\隆隆岩T阿罗拉的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\路卡利欧.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\露力丽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\露奈雅拉.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\伦琴猫.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\罗丝雷朵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\螺钉地鼠.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\洛奇亚.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\洛托姆.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\落雷兽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\绿毛虫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\麻麻鳗.png" />
@@ -1682,25 +1197,13 @@
     <None Include="Resources\玛瑙水母.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\玛狃拉.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\玛沙那.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\玛夏多.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\蔓藤怪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\猫老大.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\猫老大T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\猫头夜鹰.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\猫鼬少.png" />
@@ -1715,28 +1218,13 @@
     <None Include="Resources\毛球.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\毛头小鹰.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\煤炭龟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\美丽花.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\美洛耶塔T歌声形态.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\美洛耶塔T舞步形态.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\美纳斯.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\魅力喵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\萌虻.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\萌芽鹿T春天的样子.png" />
@@ -1757,12 +1245,6 @@
     <None Include="Resources\梦歌仙人掌.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\梦幻.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\梦梦蚀.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\梦妖.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1775,9 +1257,6 @@
     <None Include="Resources\迷唇娃.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\迷你冰.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\迷你龙.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1787,31 +1266,10 @@
     <None Include="Resources\谜拟QT现形的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\绵绵泡芙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\喵喵.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\喵喵T阿罗拉的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\妙喵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\妙蛙草.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\妙蛙花.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\妙蛙种子.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\咩利羊.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\敏捷虫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\摩鲁蛾.png" />
@@ -1821,12 +1279,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\蘑蘑菇.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\魔尼尼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\魔墙人偶.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\墨海马.png" />
@@ -1841,19 +1293,10 @@
     <None Include="Resources\姆克鹰.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\木棉球.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\木木枭.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\木守宫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\幕下力士.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\奈克洛兹玛.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\南瓜怪人T大尺寸.png" />
@@ -1898,40 +1341,7 @@
     <None Include="Resources\尼多王.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\泥巴鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\泥驴仔.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\泥泥鳅.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\泥偶巨人.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\泥偶小人.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\霓虹鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\鲶鱼王.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\黏美儿.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\黏美龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\黏黏宝.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\念力土偶.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\狃拉.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\暖暖猪.png" />
@@ -1949,16 +1359,7 @@
     <None Include="Resources\派拉斯特.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\彷徨夜灵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\庞岩怪.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\胖丁.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\胖嘟嘟.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\胖可丁.png" />
@@ -1967,34 +1368,10 @@
     <None Include="Resources\胖胖哈力.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\胖甜妮.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\泡沫栗鼠.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\喷火龙.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\喷火驼.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\喷嚏熊.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\盆才怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\劈斩司令.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\霹雳电球.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\皮宝宝.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\皮卡丘.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\皮卡丘T阿罗拉帽子.png" />
@@ -2015,15 +1392,6 @@
     <None Include="Resources\皮卡丘T神奥帽子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\皮可西.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\皮皮.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\皮丘.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\飘浮泡泡.png" />
   </ItemGroup>
   <ItemGroup>
@@ -2036,25 +1404,10 @@
     <None Include="Resources\飘浮泡泡T雨水的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\飘飘球.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\破破袋.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\破破舵轮.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\噗噗猪.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\七夕青鸟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\奇鲁莉安.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\奇诺栗鼠.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\骑拉帝纳T别种形态.png" />
@@ -2063,28 +1416,10 @@
     <None Include="Resources\骑拉帝纳T起源形态.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\骑士蜗牛.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\麒麟奇.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\恰雷姆.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\千针鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\钳尾蝎.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\强颚鸡母虫.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\锹农炮虫.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\切割洛托姆.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\青绵鸟.png" />
@@ -2093,31 +1428,13 @@
     <None Include="Resources\青藤蛇.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\青铜钟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\轻飘飘.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\清洗洛托姆.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\蜻蜻蜓.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\请假王.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\酋雷姆.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\球球海狮.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\圈圈熊.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\拳海参.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\裙儿小姐.png" />
@@ -2127,9 +1444,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\热带龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\人造细胞卵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\茸茸羊.png" />
@@ -2144,16 +1458,7 @@
     <None Include="Resources\熔岩蜗牛.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\熔蚁兽.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\弱丁鱼T单独的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\弱丁鱼T鱼群的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\三地鼠.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\三地鼠T阿罗拉的样子.png" />
@@ -2162,31 +1467,10 @@
     <None Include="Resources\三合一磁怪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\三蜜蜂.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\三首恶龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\伞电蜥.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\森林蜥蜴.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\沙河马.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\沙基拉斯.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\沙铃仙人掌.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\沙漠蜻蜓.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\沙奈朵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\沙丘娃.png" />
@@ -2195,25 +1479,10 @@
     <None Include="Resources\闪电鸟.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\蛇纹熊.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\绅士蛾.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\师父鼬.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\石居蟹.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\石丸子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\时拉比.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\食梦梦.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\始祖大鸟.png" />
@@ -2228,49 +1497,16 @@
     <None Include="Resources\狩猎凤蝶.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\属性T空.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\树才怪.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\树林龟.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\树枕尾熊.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\摔角鹰人.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\双倍多多冰.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\双弹瓦斯.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\双斧战龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\双剑鞘.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\双卵细胞球.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\双刃丸.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\双首暴龙.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\双尾怪手.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\水箭龟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\水晶灯火灵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\水君.png" />
@@ -2279,16 +1515,7 @@
     <None Include="Resources\水水獭.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\水伊布.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\水跃鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\睡睡菇.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\死神棺.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\四季鹿T春天的样子.png" />
@@ -2303,12 +1530,6 @@
     <None Include="Resources\四季鹿T夏天的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\随风球.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\索尔迦雷欧.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\索罗亚.png" />
   </ItemGroup>
   <ItemGroup>
@@ -2321,31 +1542,10 @@
     <None Include="Resources\太古羽虫.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\太阳珊瑚.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\太阳岩.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\太阳伊布.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\坦克臭鼬.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\探探鼠.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\藤藤蛇.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\天秤偶.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\天然鸟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\天然雀.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\天蝎.png" />
@@ -2354,79 +1554,28 @@
     <None Include="Resources\天蝎王.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\甜冷美后.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\甜甜萤.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\甜舞妮.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\甜竹竹.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\跳跳猪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\铁螯龙虾.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\铁臂枪虾.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\铁骨土人.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\铁火辉夜.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\铁甲蛹.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\铁壳蛹.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\铁面忍者.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\铁炮鱼.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\铁哑铃.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\铁蚁.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\铁掌力士.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\铜镜怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\童偶熊.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\头盖龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\头巾混混.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\投摔鬼.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\投羽枭.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\投掷猴.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\秃鹰娜.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\秃鹰丫头.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\图图犬.png" />
@@ -2436,9 +1585,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\土地云T灵兽形态.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\土居忍士.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\土狼犬.png" />
@@ -2453,22 +1599,7 @@
     <None Include="Resources\吞食兽.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\托戈德玛尔.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\脱壳忍者.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\瓦斯弹.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\顽皮雷弹.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\顽皮熊猫.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\腕力.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\伪螳草.png" />
@@ -2492,25 +1623,7 @@
     <None Include="Resources\蚊香泳士.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\嗡蝠.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\乌波.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\乌鸦头头.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\乌贼王.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\无壳海兔T东海.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\无壳海兔T西海.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\无畏小子.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\蜈蚣王.png" />
@@ -2519,16 +1632,10 @@
     <None Include="Resources\舞天鹅.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\西狮海壬.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\蜥蜴王.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\席多蓝恩.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\仙子伊布.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\向日花怪.png" />
@@ -2540,15 +1647,6 @@
     <None Include="Resources\向尾喵.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\象牙猪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\象征鸟.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\橡实果.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\小磁怪.png" />
   </ItemGroup>
   <ItemGroup>
@@ -2558,19 +1656,7 @@
     <None Include="Resources\小福蛋.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\小果然.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\小海狮.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\小灰怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\小火龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\小火马.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\小火焰猴.png" />
@@ -2582,9 +1668,6 @@
     <None Include="Resources\小锯鳄.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\小卡比兽.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\小拉达.png" />
   </ItemGroup>
   <ItemGroup>
@@ -2594,19 +1677,10 @@
     <None Include="Resources\小猫怪.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\小木灵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\小球飞鱼.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\小拳石.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\小拳石T阿罗拉的样子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\小山猪.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\小狮狮.png" />
@@ -2648,22 +1722,10 @@
     <None Include="Resources\小智版甲贺忍蛙.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\小嘴蜗.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\谢米T陆上形态.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\谢米T天空形态.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\心蝙蝠.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\心鳞宝.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\信使鸟.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\幸福蛋.png" />
@@ -2672,25 +1734,7 @@
     <None Include="Resources\熊宝宝.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\修建老匠.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\朽木妖.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\虚吾伊德.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\旋转洛托姆.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\雪笠怪.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\雪童子.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\雪妖女.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\鸭宝宝.png" />
@@ -2705,13 +1749,7 @@
     <None Include="Resources\鸭嘴炎兽.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\牙牙.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\亚克诺姆.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\岩殿居蟹.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\岩狗狗.png" />
@@ -2720,16 +1758,7 @@
     <None Include="Resources\炎帝.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\炎热喵.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\炎武王.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\焰白酋雷姆.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\焰后蜥.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\妖火红狐.png" />
@@ -2753,34 +1782,13 @@
     <None Include="Resources\野蛮鲈鱼T蓝条纹的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\叶伊布.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\夜盗火蜥.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\夜巡灵.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\伊布.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\伊裴尔塔尔.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\音波龙.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\音箱蟀.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\银伴战兽.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\引梦貘人.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\樱花宝.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\樱花儿T晴天形态.png" />
@@ -2801,16 +1809,10 @@
     <None Include="Resources\勇基拉.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\勇士雄鹰.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\优雅猫.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\由克希.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\幼基拉斯.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\雨翅蛾.png" />
@@ -2820,9 +1822,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\圆法师.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\圆蝌蚪.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\圆陆鲨.png" />
@@ -2840,25 +1839,7 @@
     <None Include="Resources\月桂叶.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\月亮伊布.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\月石.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\战槌龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\战舞郎.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\章鱼桶.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\长鼻叶.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\长翅鸥.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\长耳兔.png" />
@@ -2867,19 +1848,10 @@
     <None Include="Resources\长毛狗.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\长毛猪.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\长尾怪手.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\长尾火狐.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\杖尾鳞甲龙.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\沼王.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\沼跃鱼.png" />
@@ -2897,22 +1869,7 @@
     <None Include="Resources\正电拍拍.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\直冲熊.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\纸御剑.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\智挥猩.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\种子铁球.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\重泥挽马.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\烛光灵.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\自爆磁怪.png" />
@@ -2924,13 +1881,7 @@
     <None Include="Resources\鬃岩狼人T黑夜的样子.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\走路草.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\诅咒娃娃.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\钻角犀兽.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\坐骑山羊.png" />
@@ -2940,6 +1891,567 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="20170816013216741_easyicon_net_64.ico" />
+    <None Include="Resources\钻角犀兽.png" />
+    <None Include="Resources\走路草.png" />
+    <None Include="Resources\烛光灵.png" />
+    <None Include="Resources\逐电犬.png" />
+    <None Include="Resources\重泥挽马.png" />
+    <None Include="Resources\种子铁球.png" />
+    <None Include="Resources\稚山雀.png" />
+    <None Include="Resources\智挥猩.png" />
+    <None Include="Resources\直冲熊T伽勒尔.png" />
+    <None Include="Resources\直冲熊.png" />
+    <None Include="Resources\沼王.png" />
+    <None Include="Resources\杖尾鳞甲龙.png" />
+    <None Include="Resources\长毛猪.png" />
+    <None Include="Resources\长毛巨魔.png" />
+    <None Include="Resources\长翅鸥.png" />
+    <None Include="Resources\长鼻叶.png" />
+    <None Include="Resources\章鱼桶.png" />
+    <None Include="Resources\战舞郎.png" />
+    <None Include="Resources\诈唬魔.png" />
+    <None Include="Resources\月石.png" />
+    <None Include="Resources\月亮伊布.png" />
+    <None Include="Resources\圆蝌蚪.png" />
+    <None Include="Resources\幼棉棉.png" />
+    <None Include="Resources\幼基拉斯.png" />
+    <None Include="Resources\勇士雄鹰.png" />
+    <None Include="Resources\樱花儿阴天形态.png" />
+    <None Include="Resources\樱花儿晴天形态.png" />
+    <None Include="Resources\樱花宝.png" />
+    <None Include="Resources\银伴战兽17.png" />
+    <None Include="Resources\银伴战兽16.png" />
+    <None Include="Resources\银伴战兽15.png" />
+    <None Include="Resources\银伴战兽14.png" />
+    <None Include="Resources\银伴战兽13.png" />
+    <None Include="Resources\银伴战兽12.png" />
+    <None Include="Resources\银伴战兽11.png" />
+    <None Include="Resources\银伴战兽10.png" />
+    <None Include="Resources\银伴战兽9.png" />
+    <None Include="Resources\银伴战兽8.png" />
+    <None Include="Resources\银伴战兽7.png" />
+    <None Include="Resources\银伴战兽6.png" />
+    <None Include="Resources\银伴战兽5.png" />
+    <None Include="Resources\银伴战兽4.png" />
+    <None Include="Resources\银伴战兽3.png" />
+    <None Include="Resources\银伴战兽2.png" />
+    <None Include="Resources\银伴战兽1.png" />
+    <None Include="Resources\银伴战兽.png" />
+    <None Include="Resources\音波龙.png" />
+    <None Include="Resources\以欧路普.png" />
+    <None Include="Resources\伊布.png" />
+    <None Include="Resources\夜巡灵.png" />
+    <None Include="Resources\夜盗火蜥.png" />
+    <None Include="Resources\叶伊布.png" />
+    <None Include="Resources\野蛮鲈鱼蓝纹之姿.png" />
+    <None Include="Resources\野蛮鲈鱼红纹之姿.png" />
+    <None Include="Resources\咬咬龟.png" />
+    <None Include="Resources\焰后蜥.png" />
+    <None Include="Resources\焰白酋雷姆.png" />
+    <None Include="Resources\炎兔儿.png" />
+    <None Include="Resources\炎热喵.png" />
+    <None Include="Resources\岩殿居蟹.png" />
+    <None Include="Resources\牙牙.png" />
+    <None Include="Resources\雪妖女.png" />
+    <None Include="Resources\雪吞虫.png" />
+    <None Include="Resources\雪童子.png" />
+    <None Include="Resources\雪绒蛾.png" />
+    <None Include="Resources\雪笠怪.png" />
+    <None Include="Resources\旋转洛托姆.png" />
+    <None Include="Resources\朽木妖.png" />
+    <None Include="Resources\修建老匠.png" />
+    <None Include="Resources\信使鸟.png" />
+    <None Include="Resources\心鳞宝.png" />
+    <None Include="Resources\心蝙蝠.png" />
+    <None Include="Resources\小嘴蜗.png" />
+    <None Include="Resources\小仙奶.png" />
+    <None Include="Resources\小炭仔.png" />
+    <None Include="Resources\小山猪.png" />
+    <None Include="Resources\小球飞鱼.png" />
+    <None Include="Resources\小木灵.png" />
+    <None Include="Resources\小卡比兽.png" />
+    <None Include="Resources\小火马T伽勒尔.png" />
+    <None Include="Resources\小火马.png" />
+    <None Include="Resources\小火龙.png" />
+    <None Include="Resources\小灰怪.png" />
+    <None Include="Resources\小果然.png" />
+    <None Include="Resources\橡实果.png" />
+    <None Include="Resources\象征鸟.png" />
+    <None Include="Resources\象牙猪.png" />
+    <None Include="Resources\仙子伊布.png" />
+    <None Include="Resources\西狮海壬.png" />
+    <None Include="Resources\无畏小子.png" />
+    <None Include="Resources\无壳海兔T西海.png" />
+    <None Include="Resources\无壳海兔T东海.png" />
+    <None Include="Resources\无极汰那1.png" />
+    <None Include="Resources\无极汰那.png" />
+    <None Include="Resources\乌贼王.png" />
+    <None Include="Resources\乌波.png" />
+    <None Include="Resources\嗡蝠.png" />
+    <None Include="Resources\腕力.png" />
+    <None Include="Resources\顽皮熊猫.png" />
+    <None Include="Resources\瓦斯弹.png" />
+    <None Include="Resources\脱壳忍者.png" />
+    <None Include="Resources\托戈德玛尔.png" />
+    <None Include="Resources\土居忍士.png" />
+    <None Include="Resources\秃鹰丫头.png" />
+    <None Include="Resources\秃鹰娜.png" />
+    <None Include="Resources\投掷猴.png" />
+    <None Include="Resources\投羽枭.png" />
+    <None Include="Resources\投摔鬼.png" />
+    <None Include="Resources\头巾混混.png" />
+    <None Include="Resources\偷儿狐.png" />
+    <None Include="Resources\童偶熊.png" />
+    <None Include="Resources\铜象.png" />
+    <None Include="Resources\铜镜怪.png" />
+    <None Include="Resources\铁蚁.png" />
+    <None Include="Resources\铁炮鱼.png" />
+    <None Include="Resources\铁面忍者.png" />
+    <None Include="Resources\铁甲蛹.png" />
+    <None Include="Resources\铁骨土人.png" />
+    <None Include="Resources\铁螯龙虾.png" />
+    <None Include="Resources\甜竹竹.png" />
+    <None Include="Resources\甜舞妮.png" />
+    <None Include="Resources\甜冷美后.png" />
+    <None Include="Resources\天罩虫.png" />
+    <None Include="Resources\天然雀.png" />
+    <None Include="Resources\天然鸟.png" />
+    <None Include="Resources\天秤偶.png" />
+    <None Include="Resources\提布莉姆.png" />
+    <None Include="Resources\腾蹴小将.png" />
+    <None Include="Resources\坦克臭鼬.png" />
+    <None Include="Resources\贪心栗鼠.png" />
+    <None Include="Resources\太阳伊布.png" />
+    <None Include="Resources\太阳岩.png" />
+    <None Include="Resources\太阳珊瑚T伽勒尔.png" />
+    <None Include="Resources\太阳珊瑚.png" />
+    <None Include="Resources\踏冰人偶.png" />
+    <None Include="Resources\索侦虫.png" />
+    <None Include="Resources\索尔迦雷欧.png" />
+    <None Include="Resources\随风球.png" />
+    <None Include="Resources\死神棺.png" />
+    <None Include="Resources\死神板.png" />
+    <None Include="Resources\睡睡菇.png" />
+    <None Include="Resources\水伊布.png" />
+    <None Include="Resources\水晶灯火灵.png" />
+    <None Include="Resources\水箭龟.png" />
+    <None Include="Resources\霜奶仙8.png" />
+    <None Include="Resources\霜奶仙7.png" />
+    <None Include="Resources\霜奶仙6.png" />
+    <None Include="Resources\霜奶仙5.png" />
+    <None Include="Resources\霜奶仙4.png" />
+    <None Include="Resources\霜奶仙3.png" />
+    <None Include="Resources\霜奶仙2.png" />
+    <None Include="Resources\霜奶仙1.png" />
+    <None Include="Resources\霜奶仙.png" />
+    <None Include="Resources\双首暴龙.png" />
+    <None Include="Resources\双卵细胞球.png" />
+    <None Include="Resources\双剑鞘.png" />
+    <None Include="Resources\双斧战龙.png" />
+    <None Include="Resources\双弹瓦斯T伽勒尔.png" />
+    <None Include="Resources\双弹瓦斯.png" />
+    <None Include="Resources\双倍多多冰.png" />
+    <None Include="Resources\摔角鹰人.png" />
+    <None Include="Resources\树才怪.png" />
+    <None Include="Resources\属性T空.png" />
+    <None Include="Resources\食梦梦.png" />
+    <None Include="Resources\时拉比.png" />
+    <None Include="Resources\石丸子.png" />
+    <None Include="Resources\石居蟹.png" />
+    <None Include="Resources\蛇纹熊T伽勒尔.png" />
+    <None Include="Resources\蛇纹熊.png" />
+    <None Include="Resources\烧火蚣.png" />
+    <None Include="Resources\闪焰王牌.png" />
+    <None Include="Resources\沙奈朵.png" />
+    <None Include="Resources\沙漠蜻蜓.png" />
+    <None Include="Resources\沙螺蟒.png" />
+    <None Include="Resources\沙基拉斯.png" />
+    <None Include="Resources\沙河马.png" />
+    <None Include="Resources\沙包蛇.png" />
+    <None Include="Resources\伞电蜥.png" />
+    <None Include="Resources\三首恶龙.png" />
+    <None Include="Resources\三蜜蜂.png" />
+    <None Include="Resources\三地鼠T阿罗拉.png" />
+    <None Include="Resources\三地鼠.png" />
+    <None Include="Resources\鳃鱼龙.png" />
+    <None Include="Resources\鳃鱼海兽.png" />
+    <None Include="Resources\弱丁鱼T群聚的样子.png" />
+    <None Include="Resources\弱丁鱼T单独的样子.png" />
+    <None Include="Resources\熔蚁兽.png" />
+    <None Include="Resources\人造细胞卵.png" />
+    <None Include="Resources\拳拳蛸.png" />
+    <None Include="Resources\拳海参.png" />
+    <None Include="Resources\球球海狮.png" />
+    <None Include="Resources\酋雷姆.png" />
+    <None Include="Resources\清洗洛托姆.png" />
+    <None Include="Resources\轻飘飘.png" />
+    <None Include="Resources\青铜钟.png" />
+    <None Include="Resources\切割洛托姆.png" />
+    <None Include="Resources\敲音猴.png" />
+    <None Include="Resources\锹农炮虫.png" />
+    <None Include="Resources\强颚鸡母虫.png" />
+    <None Include="Resources\钳尾蝎.png" />
+    <None Include="Resources\千针鱼.png" />
+    <None Include="Resources\千面避役.png" />
+    <None Include="Resources\骑士蜗牛.png" />
+    <None Include="Resources\奇诺栗鼠.png" />
+    <None Include="Resources\奇鲁莉安.png" />
+    <None Include="Resources\破破舵轮.png" />
+    <None Include="Resources\破破袋.png" />
+    <None Include="Resources\苹裹龙.png" />
+    <None Include="Resources\飘飘球.png" />
+    <None Include="Resources\皮丘.png" />
+    <None Include="Resources\皮皮.png" />
+    <None Include="Resources\皮可西.png" />
+    <None Include="Resources\皮卡丘T无印帽.png" />
+    <None Include="Resources\皮卡丘T神奥帽.png" />
+    <None Include="Resources\皮卡丘T卡洛斯帽.png" />
+    <None Include="Resources\皮卡丘T决定你帽.png" />
+    <None Include="Resources\皮卡丘T合众帽.png" />
+    <None Include="Resources\皮卡丘T丰源帽.png" />
+    <None Include="Resources\皮卡丘T阿罗拉帽.png" />
+    <None Include="Resources\皮卡丘.png" />
+    <None Include="Resources\皮宝宝.png" />
+    <None Include="Resources\劈斩司令.png" />
+    <None Include="Resources\盆才怪.png" />
+    <None Include="Resources\喷嚏熊.png" />
+    <None Include="Resources\喷火龙.png" />
+    <None Include="Resources\泡沫栗鼠.png" />
+    <None Include="Resources\胖甜妮.png" />
+    <None Include="Resources\胖嘟嘟.png" />
+    <None Include="Resources\庞岩怪.png" />
+    <None Include="Resources\彷徨夜灵.png" />
+    <None Include="Resources\啪咚猴.png" />
+    <None Include="Resources\啪嚓海胆.png" />
+    <None Include="Resources\狃拉.png" />
+    <None Include="Resources\念力土偶.png" />
+    <None Include="Resources\黏黏宝.png" />
+    <None Include="Resources\黏美龙.png" />
+    <None Include="Resources\黏美儿.png" />
+    <None Include="Resources\鲶鱼王.png" />
+    <None Include="Resources\泥偶小人.png" />
+    <None Include="Resources\泥偶巨人.png" />
+    <None Include="Resources\泥泥鳅.png" />
+    <None Include="Resources\泥驴仔.png" />
+    <None Include="Resources\泥巴鱼T伽勒尔.png" />
+    <None Include="Resources\泥巴鱼.png" />
+    <None Include="Resources\南瓜精小尺寸.png" />
+    <None Include="Resources\南瓜精特大尺寸.png" />
+    <None Include="Resources\南瓜精普通尺寸.png" />
+    <None Include="Resources\南瓜精大尺寸.png" />
+    <None Include="Resources\南瓜怪人小尺寸.png" />
+    <None Include="Resources\南瓜怪人特大尺寸.png" />
+    <None Include="Resources\南瓜怪人普通尺寸.png" />
+    <None Include="Resources\南瓜怪人大尺寸.png" />
+    <None Include="Resources\奈克洛兹玛T黄昏之鬃.png" />
+    <None Include="Resources\奈克洛兹玛-T拂晓之翼.png" />
+    <None Include="Resources\奈克洛兹玛.png" />
+    <None Include="Resources\木木枭.png" />
+    <None Include="Resources\木棉球.png" />
+    <None Include="Resources\莫鲁贝可1.png" />
+    <None Include="Resources\莫鲁贝可.png" />
+    <None Include="Resources\魔墙人偶T伽勒尔.png" />
+    <None Include="Resources\魔墙人偶.png" />
+    <None Include="Resources\魔尼尼.png" />
+    <None Include="Resources\魔灵珊瑚.png" />
+    <None Include="Resources\敏捷虫.png" />
+    <None Include="Resources\妙蛙种子.png" />
+    <None Include="Resources\妙蛙花.png" />
+    <None Include="Resources\妙蛙草.png" />
+    <None Include="Resources\妙喵.png" />
+    <None Include="Resources\喵头目.png" />
+    <None Include="Resources\喵喵T伽勒尔.png" />
+    <None Include="Resources\喵喵T阿罗拉.png" />
+    <None Include="Resources\喵喵.png" />
+    <None Include="Resources\绵绵泡芙.png" />
+    <None Include="Resources\谜拟QT显形.png" />
+    <None Include="Resources\谜拟Q.png" />
+    <None Include="Resources\迷你冰.png" />
+    <None Include="Resources\迷布莉姆.png" />
+    <None Include="Resources\梦梦蚀.png" />
+    <None Include="Resources\梦幻.png" />
+    <None Include="Resources\萌虻.png" />
+    <None Include="Resources\美纳斯.png" />
+    <None Include="Resources\美录坦.png" />
+    <None Include="Resources\美录梅塔.png" />
+    <None Include="Resources\美丽花.png" />
+    <None Include="Resources\煤炭龟.png" />
+    <None Include="Resources\毛头小鹰.png" />
+    <None Include="Resources\毛毛角羊.png" />
+    <None Include="Resources\毛辫羊.png" />
+    <None Include="Resources\猫头夜鹰.png" />
+    <None Include="Resources\猫老大T阿罗拉.png" />
+    <None Include="Resources\猫老大.png" />
+    <None Include="Resources\玛夏多.png" />
+    <None Include="Resources\玛狃拉.png" />
+    <None Include="Resources\绿毛虫.png" />
+    <None Include="Resources\铝钢龙.png" />
+    <None Include="Resources\落雷兽.png" />
+    <None Include="Resources\洛托姆.png" />
+    <None Include="Resources\螺钉地鼠.png" />
+    <None Include="Resources\罗丝雷朵.png" />
+    <None Include="Resources\露奈雅拉.png" />
+    <None Include="Resources\路卡利欧.png" />
+    <None Include="Resources\龙虾小兵.png" />
+    <None Include="Resources\龙王蝎.png" />
+    <None Include="Resources\龙头地鼠.png" />
+    <None Include="Resources\六尾T阿罗拉.png" />
+    <None Include="Resources\六尾.png" />
+    <None Include="Resources\流氓熊猫.png" />
+    <None Include="Resources\鳞甲龙.png" />
+    <None Include="Resources\烈焰马T伽勒尔.png" />
+    <None Include="Resources\烈焰马.png" />
+    <None Include="Resources\列阵兵.png" />
+    <None Include="Resources\莲叶童子.png" />
+    <None Include="Resources\莲帽小童.png" />
+    <None Include="Resources\利欧路.png" />
+    <None Include="Resources\鲤鱼王.png" />
+    <None Include="Resources\泪眼蜥.png" />
+    <None Include="Resources\雷伊布.png" />
+    <None Include="Resources\雷丘T阿罗拉.png" />
+    <None Include="Resources\雷丘.png" />
+    <None Include="Resources\雷鸟龙.png" />
+    <None Include="Resources\雷鸟海兽.png" />
+    <None Include="Resources\雷电兽.png" />
+    <None Include="Resources\乐天河童.png" />
+    <None Include="Resources\老翁龙.png" />
+    <None Include="Resources\蓝鸦.png" />
+    <None Include="Resources\蓝蟾蜍.png" />
+    <None Include="Resources\莱希拉姆.png" />
+    <None Include="Resources\来电汪.png" />
+    <None Include="Resources\来悲茶1.png" />
+    <None Include="Resources\来悲茶.png" />
+    <None Include="Resources\拉普拉斯.png" />
+    <None Include="Resources\拉鲁拉丝.png" />
+    <None Include="Resources\快拳郎.png" />
+    <None Include="Resources\酷豹.png" />
+    <None Include="Resources\哭哭面具T伽勒尔.png" />
+    <None Include="Resources\哭哭面具.png" />
+    <None Include="Resources\啃果虫.png" />
+    <None Include="Resources\科斯莫姆.png" />
+    <None Include="Resources\科斯莫古.png" />
+    <None Include="Resources\凯路迪欧通常之姿.png" />
+    <None Include="Resources\凯路迪欧觉醒之姿.png" />
+    <None Include="Resources\卡咪龟.png" />
+    <None Include="Resources\卡蒂狗.png" />
+    <None Include="Resources\卡比兽.png" />
+    <None Include="Resources\掘掘兔.png" />
+    <None Include="Resources\掘地兔.png" />
+    <None Include="Resources\具甲武者.png" />
+    <None Include="Resources\巨炭山.png" />
+    <None Include="Resources\巨石丁.png" />
+    <None Include="Resources\巨钳蟹.png" />
+    <None Include="Resources\巨翅飞鱼.png" />
+    <None Include="Resources\驹刀小兵.png" />
+    <None Include="Resources\狙射树枭.png" />
+    <None Include="Resources\九尾T阿罗拉.png" />
+    <None Include="Resources\九尾.png" />
+    <None Include="Resources\金鱼王.png" />
+    <None Include="Resources\捷拉奥拉.png" />
+    <None Include="Resources\捷克罗姆.png" />
+    <None Include="Resources\结冰洛托姆.png" />
+    <None Include="Resources\杰尼龟.png" />
+    <None Include="Resources\街头沙铃.png" />
+    <None Include="Resources\狡猾天狗.png" />
+    <None Include="Resources\角金鱼.png" />
+    <None Include="Resources\坚果哑铃.png" />
+    <None Include="Resources\坚盾剑怪剑形态.png" />
+    <None Include="Resources\坚盾剑怪盾形态.png" />
+    <None Include="Resources\加热洛托姆.png" />
+    <None Include="Resources\基拉祈.png" />
+    <None Include="Resources\火伊布.png" />
+    <None Include="Resources\火恐龙.png" />
+    <None Include="Resources\火红不倒翁T伽勒尔.png" />
+    <None Include="Resources\火红不倒翁.png" />
+    <None Include="Resources\火斑喵.png" />
+    <None Include="Resources\灰尘山.png" />
+    <None Include="Resources\滑滑小子.png" />
+    <None Include="Resources\花漾海狮.png" />
+    <None Include="Resources\戽斗尖梭.png" />
+    <None Include="Resources\壶壶.png" />
+    <None Include="Resources\狐大盗.png" />
+    <None Include="Resources\吼鲸王.png" />
+    <None Include="Resources\吼吼鲸.png" />
+    <None Include="Resources\轰擂金刚猩.png" />
+    <None Include="Resources\黑夜魔灵.png" />
+    <None Include="Resources\河马兽.png" />
+    <None Include="Resources\好啦鱿.png" />
+    <None Include="Resources\好坏星.png" />
+    <None Include="Resources\豪力.png" />
+    <None Include="Resources\含羞苞.png" />
+    <None Include="Resources\海兔兽T西海.png" />
+    <None Include="Resources\海兔兽T东海.png" />
+    <None Include="Resources\果然翁.png" />
+    <None Include="Resources\滚滚蝙蝠.png" />
+    <None Include="Resources\鬼斯通.png" />
+    <None Include="Resources\鬼斯.png" />
+    <None Include="Resources\龟足巨铠.png" />
+    <None Include="Resources\龟脚脚.png" />
+    <None Include="Resources\光电伞蜥.png" />
+    <None Include="Resources\怪力.png" />
+    <None Include="Resources\古月鸟2.png" />
+    <None Include="Resources\古月鸟1.png" />
+    <None Include="Resources\古月鸟.png" />
+    <None Include="Resources\咕咕鸽.png" />
+    <None Include="Resources\咕咕.png" />
+    <None Include="Resources\勾帕路翁.png" />
+    <None Include="Resources\勾魂眼.png" />
+    <None Include="Resources\耿鬼.png" />
+    <None Include="Resources\哥德小童.png" />
+    <None Include="Resources\哥德小姐.png" />
+    <None Include="Resources\哥德宝宝.png" />
+    <None Include="Resources\高傲雉鸡.png" />
+    <None Include="Resources\钢铠鸦.png" />
+    <None Include="Resources\盖盖虫.png" />
+    <None Include="Resources\斧牙龙.png" />
+    <None Include="Resources\蜂女王.png" />
+    <None Include="Resources\风妖精.png" />
+    <None Include="Resources\风速狗.png" />
+    <None Include="Resources\丰蜜龙.png" />
+    <None Include="Resources\粉香香.png" />
+    <None Include="Resources\焚焰蚣.png" />
+    <None Include="Resources\飞腿郎.png" />
+    <None Include="Resources\芳香精.png" />
+    <None Include="Resources\多龙奇.png" />
+    <None Include="Resources\多龙梅西亚.png" />
+    <None Include="Resources\多龙巴鲁托.png" />
+    <None Include="Resources\多多冰.png" />
+    <None Include="Resources\堵拦熊.png" />
+    <None Include="Resources\独角犀牛.png" />
+    <None Include="Resources\独剑鞘.png" />
+    <None Include="Resources\毒蔷薇.png" />
+    <None Include="Resources\毒骷蛙.png" />
+    <None Include="Resources\毒电婴.png" />
+    <None Include="Resources\豆豆鸽.png" />
+    <None Include="Resources\冻原熊.png" />
+    <None Include="Resources\蝶结萌虻.png" />
+    <None Include="Resources\电蜘蛛.png" />
+    <None Include="Resources\电电虫.png" />
+    <None Include="Resources\电灯怪.png" />
+    <None Include="Resources\地鼠T阿罗拉.png" />
+    <None Include="Resources\地鼠.png" />
+    <None Include="Resources\地幔岩.png" />
+    <None Include="Resources\滴蛛霸.png" />
+    <None Include="Resources\滴蛛.png" />
+    <None Include="Resources\灯罩夜菇.png" />
+    <None Include="Resources\灯笼鱼.png" />
+    <None Include="Resources\灯火幽灵.png" />
+    <None Include="Resources\捣蛋小妖.png" />
+    <None Include="Resources\胆小虫.png" />
+    <None Include="Resources\单首龙.png" />
+    <None Include="Resources\单卵细胞球.png" />
+    <None Include="Resources\代拉基翁.png" />
+    <None Include="Resources\大嘴娃.png" />
+    <None Include="Resources\大嘴鸥.png" />
+    <None Include="Resources\大宇怪.png" />
+    <None Include="Resources\大岩蛇.png" />
+    <None Include="Resources\大王铜象.png" />
+    <None Include="Resources\大炭车.png" />
+    <None Include="Resources\大舌贝.png" />
+    <None Include="Resources\大钳蟹.png" />
+    <None Include="Resources\大钢蛇.png" />
+    <None Include="Resources\大颚蚁.png" />
+    <None Include="Resources\大葱鸭T伽勒尔.png" />
+    <None Include="Resources\大葱鸭.png" />
+    <None Include="Resources\打击鬼.png" />
+    <None Include="Resources\达摩狒狒通常模式T伽勒尔.png" />
+    <None Include="Resources\达摩狒狒通常模式.png" />
+    <None Include="Resources\达摩狒狒不倒翁模式T伽勒尔.png" />
+    <None Include="Resources\达摩狒狒不倒翁模式.png" />
+    <None Include="Resources\葱游兵.png" />
+    <None Include="Resources\刺梭鱼.png" />
+    <None Include="Resources\刺甲贝.png" />
+    <None Include="Resources\穿着熊.png" />
+    <None Include="Resources\臭鼬噗.png" />
+    <None Include="Resources\臭臭花.png" />
+    <None Include="Resources\丑丑鱼.png" />
+    <None Include="Resources\虫电宝.png" />
+    <None Include="Resources\炽焰咆哮虎.png" />
+    <None Include="Resources\齿轮组.png" />
+    <None Include="Resources\齿轮怪.png" />
+    <None Include="Resources\齿轮儿.png" />
+    <None Include="Resources\超音波幼虫.png" />
+    <None Include="Resources\超能妙喵雄性.png" />
+    <None Include="Resources\超能妙喵雌性.png" />
+    <None Include="Resources\超梦.png" />
+    <None Include="Resources\超甲狂犀.png" />
+    <None Include="Resources\超坏星.png" />
+    <None Include="Resources\颤弦蝾螈1.png" />
+    <None Include="Resources\颤弦蝾螈.png" />
+    <None Include="Resources\蟾蜍王.png" />
+    <None Include="Resources\藏玛然特1.png" />
+    <None Include="Resources\藏玛然特.png" />
+    <None Include="Resources\藏饱栗鼠.png" />
+    <None Include="Resources\苍响1.png" />
+    <None Include="Resources\苍响.png" />
+    <None Include="Resources\怖思壶2.png" />
+    <None Include="Resources\怖思壶.png" />
+    <None Include="Resources\布莉姆温.png" />
+    <None Include="Resources\不良蛙.png" />
+    <None Include="Resources\波克基斯.png" />
+    <None Include="Resources\波克基古.png" />
+    <None Include="Resources\波克比.png" />
+    <None Include="Resources\冰伊布.png" />
+    <None Include="Resources\冰岩怪.png" />
+    <None Include="Resources\冰砌鹅1.png" />
+    <None Include="Resources\冰砌鹅.png" />
+    <None Include="Resources\冰鬼护.png" />
+    <None Include="Resources\冰宝.png" />
+    <None Include="Resources\变涩蜥.png" />
+    <None Include="Resources\毕力吉翁.png" />
+    <None Include="Resources\爆焰龟兽.png" />
+    <None Include="Resources\暴雪王.png" />
+    <None Include="Resources\暴噬龟.png" />
+    <None Include="Resources\暴鲤龙.png" />
+    <None Include="Resources\搬运小匠.png" />
+    <None Include="Resources\班基拉斯.png" />
+    <None Include="Resources\百变怪.png" />
+    <None Include="Resources\白蓬蓬.png" />
+    <None Include="Resources\霸王花.png" />
+    <None Include="Resources\扒手猫.png" />
+    <None Include="Resources\巴大蝶.png" />
+    <None Include="Resources\八爪武师.png" />
+    <None Include="Resources\暗黑酋雷姆.png" />
+    <None Include="Resources\爱管侍1.png" />
+    <None Include="Resources\爱管侍.png" />
+    <None Include="Resources\艾路雷朵.png" />
+    <None Include="Resources\595.png" />
+    <None Include="Resources\594.png" />
+    <None Include="Resources\593.png" />
+    <None Include="Resources\592.png" />
+    <None Include="Resources\591.png" />
+    <None Include="Resources\590.png" />
+    <None Include="Resources\589.png" />
+    <None Include="Resources\588.png" />
+    <None Include="Resources\587.png" />
+    <None Include="Resources\586.png" />
+    <None Include="Resources\585.png" />
+    <None Include="Resources\584.png" />
+    <None Include="Resources\583.png" />
+    <None Include="Resources\582.png" />
+    <None Include="Resources\581.png" />
+    <None Include="Resources\580.png" />
+    <None Include="Resources\579.png" />
+    <None Include="Resources\578.png" />
+    <None Include="Resources\577.png" />
+    <None Include="Resources\576.png" />
+    <None Include="Resources\575.png" />
+    <None Include="Resources\574.png" />
+    <None Include="Resources\573.png" />
+    <None Include="Resources\572.png" />
+    <None Include="Resources\571.png" />
+    <None Include="Resources\570.png" />
+    <None Include="Resources\569.png" />
+    <None Include="Resources\568.png" />
+    <None Include="Resources\四颚针龙.png" />
+    <None Include="Resources\砰头小丑.png" />
+    <None Include="Resources\奈克洛兹玛T究极奈克洛兹玛.png" />
+    <None Include="Resources\奈克洛兹玛T拂晓之翼.png" />
+    <None Include="Resources\垒磊石.png" />
+    <None Include="Resources\毒贝比.png" />
+    <None Include="Resources\奈克洛兹玛-究极奈克洛兹玛.png" />
+    <None Include="Resources\奈克洛兹玛-黄昏之鬃.png" />
+    <None Include="Resources\奈克洛兹玛-拂晓之翼.png" />
     <None Include="Resources\yf力士.bmp" />
     <None Include="Resources\肛头龙.jpg" />
   </ItemGroup>

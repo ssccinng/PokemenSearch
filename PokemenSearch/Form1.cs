@@ -110,7 +110,7 @@ namespace PokemenSearch
             Type1.Text = "(无)";
             Type2.Text = "(无)";
             pokemensdec = new string[803];
-            pokemens = PokemenSearch.load_data.GetPokemen(ref pokemensdec);
+            //pokemens = PokemenSearch.load_data.GetPokemen(ref pokemensdec);
             for (int i = 1; i < 803; ++i)
             {
                 poketonum[allpoke[i]] = i;

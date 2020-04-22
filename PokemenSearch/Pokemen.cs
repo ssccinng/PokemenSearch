@@ -24,6 +24,10 @@ namespace PokemenSearch
 
         public bool diffstat;
 
+        public Racial EVfield = new Racial(); // 努力获得
+
+        public string egggroup;
+
         public Pokemen()
         {
             diffstat = false;
@@ -34,7 +38,7 @@ namespace PokemenSearch
         {
             string[] typelist = load_data.loadpokemenTYPE();
             string a = typelist[type1], b = typelist[type2 == 0 ? type1 : type2];
-            return ((Type1 == "(无)" || Type1 == a || Type1 == b) && (Type2 == "(无)" || Type2 == a || Type2 == b));
+            return ((Type1 == "(无)" || Type1 == "" || Type1 == a || Type1 == b) && (Type2 == "(无)" || Type2 == "" || Type2 == a || Type2 == b));
         }
 
         public bool isTX(string TX)
@@ -43,16 +47,16 @@ namespace PokemenSearch
             return (TX == "" || TX == Txlist[feature1] || TX == Txlist[feature2] || TX == Txlist[featuresDream]);
         }
 
-        public bool havespZ(string ZS, int SD)
-        {
-            if (specialZ[SD] == null) return false;
-            string[] gg = specialZ[SD].Split(',');
-            foreach (string temp in gg)
-            {
-                if (temp == ZS) return true;
-            }
-            return false;
-        }
+        //public bool havespZ(string ZS, int SD)
+        //{
+        //    if (specialZ[SD] == null) return false;
+        //    string[] gg = specialZ[SD].Split(',');
+        //    foreach (string temp in gg)
+        //    {
+        //        if (temp == ZS) return true;
+        //    }
+        //    return false;
+        //}
 
         public string[] specialZ;
     }

@@ -78,17 +78,28 @@
             this.level11 = new System.Windows.Forms.Label();
             this.level = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.ZSt = new System.Windows.Forms.Button();
+            this.ZSlist1 = new System.Windows.Forms.GroupBox();
+            this.CLEAR = new System.Windows.Forms.Button();
+            this.sortra = new System.Windows.Forms.CheckBox();
+            this.evfield = new System.Windows.Forms.Label();
+            this.typel = new System.Windows.Forms.Label();
+            this.egggroup = new System.Windows.Forms.Label();
+            this.TXp = new System.Windows.Forms.Label();
+            this.TXM = new System.Windows.Forms.Label();
+            this.sorttag = new System.Windows.Forms.ComboBox();
+            this.ZSlist1.SuspendLayout();
             this.SuspendLayout();
             // 
             // AfterSearch
             // 
-            this.AfterSearch.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.AfterSearch.FormattingEnabled = true;
             this.AfterSearch.Location = new System.Drawing.Point(47, 50);
             this.AfterSearch.Name = "AfterSearch";
             this.AfterSearch.Size = new System.Drawing.Size(100, 20);
             this.AfterSearch.TabIndex = 0;
             this.AfterSearch.SelectedIndexChanged += new System.EventHandler(this.AfterSearch_SelectedIndexChanged);
+            this.AfterSearch.TextChanged += new System.EventHandler(this.AfterSearch_TextChanged);
             // 
             // label1
             // 
@@ -214,28 +225,26 @@
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.Enabled = false;
             this.label6.Location = new System.Drawing.Point(57, 244);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(77, 12);
             this.label6.TabIndex = 11;
             this.label6.Text = "招式世代限制";
+            this.label6.Visible = false;
             // 
             // SD
             // 
             this.SD.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.SD.Enabled = false;
             this.SD.FormattingEnabled = true;
             this.SD.Items.AddRange(new object[] {
-            "第一世代",
-            "第二世代",
-            "第三世代",
-            "第四世代",
-            "第五世代",
-            "第六世代",
-            "第七世代"});
+            "迦勒尔图鉴"});
             this.SD.Location = new System.Drawing.Point(47, 280);
             this.SD.Name = "SD";
             this.SD.Size = new System.Drawing.Size(100, 20);
             this.SD.TabIndex = 12;
+            this.SD.Visible = false;
             this.SD.SelectedIndexChanged += new System.EventHandler(this.SD_SelectedIndexChanged);
             // 
             // pokename
@@ -247,7 +256,7 @@
             this.pokename.TabIndex = 13;
             this.pokename.Text = "斗笠菇";
             this.pokename.TextChanged += new System.EventHandler(this.pokename_TextChanged);
-            this.pokename.Click += new System.EventHandler(this.label7_Click);
+            this.pokename.Click += new System.EventHandler(this.info_Click);
             // 
             // PHP
             // 
@@ -567,18 +576,18 @@
             this.label31.AutoSize = true;
             this.label31.Location = new System.Drawing.Point(473, 64);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(125, 12);
+            this.label31.Size = new System.Drawing.Size(53, 12);
             this.label31.TabIndex = 15;
-            this.label31.Text = "招式列表(暂不分形态)";
+            this.label31.Text = "招式列表";
             // 
             // pokehead
             // 
             this.pokehead.Image = ((System.Drawing.Image)(resources.GetObject("pokehead.Image")));
-            this.pokehead.Location = new System.Drawing.Point(202, 9);
+            this.pokehead.Location = new System.Drawing.Point(185, -8);
             this.pokehead.Name = "pokehead";
-            this.pokehead.Size = new System.Drawing.Size(41, 41);
+            this.pokehead.Size = new System.Drawing.Size(65, 65);
             this.pokehead.TabIndex = 13;
-            this.pokehead.Click += new System.EventHandler(this.label7_Click);
+            this.pokehead.Click += new System.EventHandler(this.info_Click);
             // 
             // level11
             // 
@@ -608,11 +617,125 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // ZSt
+            // 
+            this.ZSt.Location = new System.Drawing.Point(153, 191);
+            this.ZSt.Name = "ZSt";
+            this.ZSt.Size = new System.Drawing.Size(21, 21);
+            this.ZSt.TabIndex = 20;
+            this.ZSt.Text = "+";
+            this.ZSt.UseVisualStyleBackColor = true;
+            this.ZSt.Click += new System.EventHandler(this.ZSt_Click);
+            // 
+            // ZSlist1
+            // 
+            this.ZSlist1.Controls.Add(this.CLEAR);
+            this.ZSlist1.Location = new System.Drawing.Point(622, 64);
+            this.ZSlist1.Name = "ZSlist1";
+            this.ZSlist1.Size = new System.Drawing.Size(169, 259);
+            this.ZSlist1.TabIndex = 21;
+            this.ZSlist1.TabStop = false;
+            this.ZSlist1.Text = "查询招式列表";
+            // 
+            // CLEAR
+            // 
+            this.CLEAR.Location = new System.Drawing.Point(47, 216);
+            this.CLEAR.Name = "CLEAR";
+            this.CLEAR.Size = new System.Drawing.Size(75, 23);
+            this.CLEAR.TabIndex = 22;
+            this.CLEAR.Text = "清空";
+            this.CLEAR.UseVisualStyleBackColor = true;
+            this.CLEAR.Click += new System.EventHandler(this.CLEAR_Click);
+            // 
+            // sortra
+            // 
+            this.sortra.AutoSize = true;
+            this.sortra.Enabled = false;
+            this.sortra.Location = new System.Drawing.Point(39, 306);
+            this.sortra.Name = "sortra";
+            this.sortra.Size = new System.Drawing.Size(108, 16);
+            this.sortra.TabIndex = 22;
+            this.sortra.Text = "依照种族值降序";
+            this.sortra.UseVisualStyleBackColor = true;
+            this.sortra.Visible = false;
+            this.sortra.CheckedChanged += new System.EventHandler(this.sortra_CheckedChanged);
+            // 
+            // evfield
+            // 
+            this.evfield.Location = new System.Drawing.Point(620, 19);
+            this.evfield.Name = "evfield";
+            this.evfield.Size = new System.Drawing.Size(220, 38);
+            this.evfield.TabIndex = 23;
+            this.evfield.Click += new System.EventHandler(this.evfield_Click);
+            // 
+            // typel
+            // 
+            this.typel.Location = new System.Drawing.Point(521, 22);
+            this.typel.Name = "typel";
+            this.typel.Size = new System.Drawing.Size(83, 61);
+            this.typel.TabIndex = 24;
+            // 
+            // egggroup
+            // 
+            this.egggroup.Location = new System.Drawing.Point(25, 221);
+            this.egggroup.Name = "egggroup";
+            this.egggroup.Size = new System.Drawing.Size(172, 23);
+            this.egggroup.TabIndex = 25;
+            // 
+            // TXp
+            // 
+            this.TXp.Location = new System.Drawing.Point(24, 244);
+            this.TXp.Name = "TXp";
+            this.TXp.Size = new System.Drawing.Size(172, 23);
+            this.TXp.TabIndex = 26;
+            // 
+            // TXM
+            // 
+            this.TXM.Location = new System.Drawing.Point(24, 267);
+            this.TXM.Name = "TXM";
+            this.TXM.Size = new System.Drawing.Size(172, 23);
+            this.TXM.TabIndex = 26;
+            // 
+            // sorttag
+            // 
+            this.sorttag.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.sorttag.FormattingEnabled = true;
+            this.sorttag.Items.AddRange(new object[] {
+            "依照图鉴编号排序",
+            "依照种族值降序",
+            "依照种族值升序",
+            "依照HP降序",
+            "依照HP升序",
+            "依照攻击降序",
+            "依照攻击升序",
+            "依照防御降序",
+            "依照防御升序",
+            "依照特攻降序",
+            "依照特攻升序",
+            "依照特防降序",
+            "依照特防升序",
+            "依照速度降序",
+            "依照速度升序"});
+            this.sorttag.Location = new System.Drawing.Point(26, 302);
+            this.sorttag.Name = "sorttag";
+            this.sorttag.Size = new System.Drawing.Size(148, 20);
+            this.sorttag.TabIndex = 27;
+            this.sorttag.SelectedIndexChanged += new System.EventHandler(this.sorttag_SelectedIndexChanged);
+            // 
             // showpokemen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(626, 353);
+            this.ClientSize = new System.Drawing.Size(818, 353);
+            this.Controls.Add(this.sorttag);
+            this.Controls.Add(this.TXM);
+            this.Controls.Add(this.TXp);
+            this.Controls.Add(this.egggroup);
+            this.Controls.Add(this.typel);
+            this.Controls.Add(this.evfield);
+            this.Controls.Add(this.sortra);
+            this.Controls.Add(this.ZSlist1);
+            this.Controls.Add(this.ZSt);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox21);
             this.Controls.Add(this.rss);
@@ -662,10 +785,13 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.AfterSearch);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "showpokemen";
-            this.Text = "宝可梦搜索器";
+            this.Text = "宝可梦搜索器-by moob";
             this.Load += new System.EventHandler(this.showpokemen_Load);
+            this.ZSlist1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -722,5 +848,15 @@
         private System.Windows.Forms.Label level11;
         private System.Windows.Forms.TextBox level;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button ZSt;
+        private System.Windows.Forms.GroupBox ZSlist1;
+        private System.Windows.Forms.Button CLEAR;
+        private System.Windows.Forms.CheckBox sortra;
+        private System.Windows.Forms.Label evfield;
+        private System.Windows.Forms.Label typel;
+        private System.Windows.Forms.Label egggroup;
+        private System.Windows.Forms.Label TXp;
+        private System.Windows.Forms.Label TXM;
+        private System.Windows.Forms.ComboBox sorttag;
     }
 }

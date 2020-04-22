@@ -63,9 +63,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap yf力士 {
+        internal static System.Drawing.Bitmap _568 {
             get {
-                object obj = ResourceManager.GetObject("yf力士", resourceCulture);
+                object obj = ResourceManager.GetObject("_568", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 七夕青鸟 {
+        internal static System.Drawing.Bitmap _569 {
             get {
-                object obj = ResourceManager.GetObject("七夕青鸟", resourceCulture);
+                object obj = ResourceManager.GetObject("_569", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,259 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 三合一磁怪 {
+        internal static System.Drawing.Bitmap _570 {
             get {
-                object obj = ResourceManager.GetObject("三合一磁怪", resourceCulture);
+                object obj = ResourceManager.GetObject("_570", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _571 {
+            get {
+                object obj = ResourceManager.GetObject("_571", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _572 {
+            get {
+                object obj = ResourceManager.GetObject("_572", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _573 {
+            get {
+                object obj = ResourceManager.GetObject("_573", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _574 {
+            get {
+                object obj = ResourceManager.GetObject("_574", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _575 {
+            get {
+                object obj = ResourceManager.GetObject("_575", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _576 {
+            get {
+                object obj = ResourceManager.GetObject("_576", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _577 {
+            get {
+                object obj = ResourceManager.GetObject("_577", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _578 {
+            get {
+                object obj = ResourceManager.GetObject("_578", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _579 {
+            get {
+                object obj = ResourceManager.GetObject("_579", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _580 {
+            get {
+                object obj = ResourceManager.GetObject("_580", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _581 {
+            get {
+                object obj = ResourceManager.GetObject("_581", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _582 {
+            get {
+                object obj = ResourceManager.GetObject("_582", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _583 {
+            get {
+                object obj = ResourceManager.GetObject("_583", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _584 {
+            get {
+                object obj = ResourceManager.GetObject("_584", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _585 {
+            get {
+                object obj = ResourceManager.GetObject("_585", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _586 {
+            get {
+                object obj = ResourceManager.GetObject("_586", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _587 {
+            get {
+                object obj = ResourceManager.GetObject("_587", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _588 {
+            get {
+                object obj = ResourceManager.GetObject("_588", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _589 {
+            get {
+                object obj = ResourceManager.GetObject("_589", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _590 {
+            get {
+                object obj = ResourceManager.GetObject("_590", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _591 {
+            get {
+                object obj = ResourceManager.GetObject("_591", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _592 {
+            get {
+                object obj = ResourceManager.GetObject("_592", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _593 {
+            get {
+                object obj = ResourceManager.GetObject("_593", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _594 {
+            get {
+                object obj = ResourceManager.GetObject("_594", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap _595 {
+            get {
+                object obj = ResourceManager.GetObject("_595", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +353,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 三地鼠T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 三地鼠T阿罗拉 {
             get {
-                object obj = ResourceManager.GetObject("三地鼠T阿罗拉的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("三地鼠T阿罗拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +403,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 东施喵 {
+        internal static System.Drawing.Bitmap 丰蜜龙 {
             get {
-                object obj = ResourceManager.GetObject("东施喵", resourceCulture);
+                object obj = ResourceManager.GetObject("丰蜜龙", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,16 +433,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 乌鸦头头 {
-            get {
-                object obj = ResourceManager.GetObject("乌鸦头头", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 乐天河童 {
             get {
                 object obj = ResourceManager.GetObject("乐天河童", resourceCulture);
@@ -213,19 +453,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 九尾T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 九尾T阿罗拉 {
             get {
-                object obj = ResourceManager.GetObject("九尾T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 亚克诺姆 {
-            get {
-                object obj = ResourceManager.GetObject("亚克诺姆", resourceCulture);
+                object obj = ResourceManager.GetObject("九尾T阿罗拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -263,39 +493,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 代欧奇希斯T攻击的样子 {
+        internal static System.Drawing.Bitmap 以欧路普 {
             get {
-                object obj = ResourceManager.GetObject("代欧奇希斯T攻击的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 代欧奇希斯T普通形态 {
-            get {
-                object obj = ResourceManager.GetObject("代欧奇希斯T普通形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 代欧奇希斯T速度的样子 {
-            get {
-                object obj = ResourceManager.GetObject("代欧奇希斯T速度的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 代欧奇希斯T防御的样子 {
-            get {
-                object obj = ResourceManager.GetObject("代欧奇希斯T防御的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("以欧路普", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,79 +513,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 伊裴尔塔尔 {
-            get {
-                object obj = ResourceManager.GetObject("伊裴尔塔尔", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 优雅猫 {
-            get {
-                object obj = ResourceManager.GetObject("优雅猫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 伞电蜥 {
             get {
                 object obj = ResourceManager.GetObject("伞电蜥", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 伦琴猫 {
-            get {
-                object obj = ResourceManager.GetObject("伦琴猫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 伪螳草 {
-            get {
-                object obj = ResourceManager.GetObject("伪螳草", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 佛烈托斯 {
-            get {
-                object obj = ResourceManager.GetObject("佛烈托斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 保姆曼波 {
-            get {
-                object obj = ResourceManager.GetObject("保姆曼波", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 保姆虫 {
-            get {
-                object obj = ResourceManager.GetObject("保姆虫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -413,19 +543,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 催眠貘 {
+        internal static System.Drawing.Bitmap 偷儿狐 {
             get {
-                object obj = ResourceManager.GetObject("催眠貘", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 傲骨燕 {
-            get {
-                object obj = ResourceManager.GetObject("傲骨燕", resourceCulture);
+                object obj = ResourceManager.GetObject("偷儿狐", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -443,9 +563,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 克雷色利亚 {
+        internal static System.Drawing.Bitmap 八爪武师 {
             get {
-                object obj = ResourceManager.GetObject("克雷色利亚", resourceCulture);
+                object obj = ResourceManager.GetObject("八爪武师", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -463,19 +583,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 六尾T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 六尾T阿罗拉 {
             get {
-                object obj = ResourceManager.GetObject("六尾T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 兰螳花 {
-            get {
-                object obj = ResourceManager.GetObject("兰螳花", resourceCulture);
+                object obj = ResourceManager.GetObject("六尾T阿罗拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -523,9 +633,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 冰雪巨龙 {
+        internal static System.Drawing.Bitmap 冰砌鹅T结冻头 {
             get {
-                object obj = ResourceManager.GetObject("冰雪巨龙", resourceCulture);
+                object obj = ResourceManager.GetObject("冰砌鹅T结冻头", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -533,9 +643,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 冰雪龙 {
+        internal static System.Drawing.Bitmap 冰砌鹅T解冻头 {
             get {
-                object obj = ResourceManager.GetObject("冰雪龙", resourceCulture);
+                object obj = ResourceManager.GetObject("冰砌鹅T解冻头", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -553,26 +663,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 冷水猴 {
-            get {
-                object obj = ResourceManager.GetObject("冷水猴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 冷水猿 {
-            get {
-                object obj = ResourceManager.GetObject("冷水猿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 冻原熊 {
             get {
                 object obj = ResourceManager.GetObject("冻原熊", resourceCulture);
@@ -583,9 +673,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 几何雪花 {
+        internal static System.Drawing.Bitmap 凯路迪欧觉醒之姿 {
             get {
-                object obj = ResourceManager.GetObject("几何雪花", resourceCulture);
+                object obj = ResourceManager.GetObject("凯路迪欧觉醒之姿", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -593,49 +683,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 凤王 {
+        internal static System.Drawing.Bitmap 凯路迪欧通常之姿 {
             get {
-                object obj = ResourceManager.GetObject("凤王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 凯罗斯 {
-            get {
-                object obj = ResourceManager.GetObject("凯罗斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 凯西 {
-            get {
-                object obj = ResourceManager.GetObject("凯西", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 凯路迪欧T平常的样子 {
-            get {
-                object obj = ResourceManager.GetObject("凯路迪欧T平常的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 凯路迪欧T觉悟的样子 {
-            get {
-                object obj = ResourceManager.GetObject("凯路迪欧T觉悟的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("凯路迪欧通常之姿", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -653,6 +703,16 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 列阵兵 {
+            get {
+                object obj = ResourceManager.GetObject("列阵兵", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 利欧路 {
             get {
                 object obj = ResourceManager.GetObject("利欧路", resourceCulture);
@@ -663,29 +723,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 利牙鱼 {
+        internal static System.Drawing.Bitmap 刺梭鱼 {
             get {
-                object obj = ResourceManager.GetObject("利牙鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 刺尾虫 {
-            get {
-                object obj = ResourceManager.GetObject("刺尾虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 刺球仙人掌 {
-            get {
-                object obj = ResourceManager.GetObject("刺球仙人掌", resourceCulture);
+                object obj = ResourceManager.GetObject("刺梭鱼", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -703,39 +743,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 刺龙王 {
-            get {
-                object obj = ResourceManager.GetObject("刺龙王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 劈斩司令 {
             get {
                 object obj = ResourceManager.GetObject("劈斩司令", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 力壮鸡 {
-            get {
-                object obj = ResourceManager.GetObject("力壮鸡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 功夫鼬 {
-            get {
-                object obj = ResourceManager.GetObject("功夫鼬", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -753,29 +763,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 勇基拉 {
-            get {
-                object obj = ResourceManager.GetObject("勇基拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 勇士雄鹰 {
             get {
                 object obj = ResourceManager.GetObject("勇士雄鹰", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 勒克猫 {
-            get {
-                object obj = ResourceManager.GetObject("勒克猫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -803,29 +793,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 化石盔 {
-            get {
-                object obj = ResourceManager.GetObject("化石盔", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 化石翼龙 {
-            get {
-                object obj = ResourceManager.GetObject("化石翼龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 千针鱼 {
             get {
                 object obj = ResourceManager.GetObject("千针鱼", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 千面避役 {
+            get {
+                object obj = ResourceManager.GetObject("千面避役", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -853,9 +833,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜怪人T大尺寸 {
+        internal static System.Drawing.Bitmap 南瓜怪人大尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜怪人T大尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜怪人大尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -863,9 +843,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜怪人T小尺寸 {
+        internal static System.Drawing.Bitmap 南瓜怪人小尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜怪人T小尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜怪人小尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -873,9 +853,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜怪人T普通尺寸 {
+        internal static System.Drawing.Bitmap 南瓜怪人普通尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜怪人T普通尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜怪人普通尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -883,9 +863,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜怪人T特大尺寸 {
+        internal static System.Drawing.Bitmap 南瓜怪人特大尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜怪人T特大尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜怪人特大尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -893,9 +873,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜精T大尺寸 {
+        internal static System.Drawing.Bitmap 南瓜精大尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜精T大尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜精大尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -903,9 +883,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜精T小尺寸 {
+        internal static System.Drawing.Bitmap 南瓜精小尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜精T小尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜精小尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -913,9 +893,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜精T普通尺寸 {
+        internal static System.Drawing.Bitmap 南瓜精普通尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜精T普通尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜精普通尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -923,9 +903,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 南瓜精T特大尺寸 {
+        internal static System.Drawing.Bitmap 南瓜精特大尺寸 {
             get {
-                object obj = ResourceManager.GetObject("南瓜精T特大尺寸", resourceCulture);
+                object obj = ResourceManager.GetObject("南瓜精特大尺寸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -943,59 +923,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 卡拉卡拉 {
-            get {
-                object obj = ResourceManager.GetObject("卡拉卡拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 卡比兽 {
             get {
                 object obj = ResourceManager.GetObject("卡比兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 卡璞T哞哞 {
-            get {
-                object obj = ResourceManager.GetObject("卡璞T哞哞", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 卡璞T蝶蝶 {
-            get {
-                object obj = ResourceManager.GetObject("卡璞T蝶蝶", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 卡璞T鳍鳍 {
-            get {
-                object obj = ResourceManager.GetObject("卡璞T鳍鳍", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 卡璞T鸣鸣 {
-            get {
-                object obj = ResourceManager.GetObject("卡璞T鸣鸣", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1013,49 +943,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 卷卷耳 {
-            get {
-                object obj = ResourceManager.GetObject("卷卷耳", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 原盖海龟 {
-            get {
-                object obj = ResourceManager.GetObject("原盖海龟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 叉字蝠 {
-            get {
-                object obj = ResourceManager.GetObject("叉字蝠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 双倍多多冰 {
             get {
                 object obj = ResourceManager.GetObject("双倍多多冰", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 双刃丸 {
-            get {
-                object obj = ResourceManager.GetObject("双刃丸", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1083,9 +973,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 双尾怪手 {
+        internal static System.Drawing.Bitmap 双弹瓦斯 {
             get {
-                object obj = ResourceManager.GetObject("双尾怪手", resourceCulture);
+                object obj = ResourceManager.GetObject("双弹瓦斯", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1093,9 +983,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 双弹瓦斯 {
+        internal static System.Drawing.Bitmap 双弹瓦斯T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("双弹瓦斯", resourceCulture);
+                object obj = ResourceManager.GetObject("双弹瓦斯T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1123,9 +1013,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 变隐龙 {
+        internal static System.Drawing.Bitmap 变涩蜥 {
             get {
-                object obj = ResourceManager.GetObject("变隐龙", resourceCulture);
+                object obj = ResourceManager.GetObject("变涩蜥", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1133,9 +1023,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 口呆花 {
+        internal static System.Drawing.Bitmap 古月鸟 {
             get {
-                object obj = ResourceManager.GetObject("口呆花", resourceCulture);
+                object obj = ResourceManager.GetObject("古月鸟", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1143,9 +1033,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 古空棘鱼 {
+        internal static System.Drawing.Bitmap 古月鸟T一口吞的样子 {
             get {
-                object obj = ResourceManager.GetObject("古空棘鱼", resourceCulture);
+                object obj = ResourceManager.GetObject("古月鸟T一口吞的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1153,29 +1043,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 可可多拉 {
+        internal static System.Drawing.Bitmap 古月鸟T大口吞的样子 {
             get {
-                object obj = ResourceManager.GetObject("可可多拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 可多拉 {
-            get {
-                object obj = ResourceManager.GetObject("可多拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 可达鸭 {
-            get {
-                object obj = ResourceManager.GetObject("可达鸭", resourceCulture);
+                object obj = ResourceManager.GetObject("古月鸟T大口吞的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1186,66 +1056,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 叶伊布 {
             get {
                 object obj = ResourceManager.GetObject("叶伊布", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 吉利蛋 {
-            get {
-                object obj = ResourceManager.GetObject("吉利蛋", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 向尾喵 {
-            get {
-                object obj = ResourceManager.GetObject("向尾喵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 向日种子 {
-            get {
-                object obj = ResourceManager.GetObject("向日种子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 向日花怪 {
-            get {
-                object obj = ResourceManager.GetObject("向日花怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 君主蛇 {
-            get {
-                object obj = ResourceManager.GetObject("君主蛇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 吞食兽 {
-            get {
-                object obj = ResourceManager.GetObject("吞食兽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1273,79 +1083,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 吼爆弹 {
-            get {
-                object obj = ResourceManager.GetObject("吼爆弹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 吼鲸王 {
             get {
                 object obj = ResourceManager.GetObject("吼鲸王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 呆呆兽 {
-            get {
-                object obj = ResourceManager.GetObject("呆呆兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 呆呆王 {
-            get {
-                object obj = ResourceManager.GetObject("呆呆王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 呆壳兽 {
-            get {
-                object obj = ResourceManager.GetObject("呆壳兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 呆火驼 {
-            get {
-                object obj = ResourceManager.GetObject("呆火驼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 呱呱泡蛙 {
-            get {
-                object obj = ResourceManager.GetObject("呱呱泡蛙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 呱头蛙 {
-            get {
-                object obj = ResourceManager.GetObject("呱头蛙", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1373,69 +1113,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 咕妞妞 {
+        internal static System.Drawing.Bitmap 咬咬龟 {
             get {
-                object obj = ResourceManager.GetObject("咕妞妞", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 咚咚鼠 {
-            get {
-                object obj = ResourceManager.GetObject("咚咚鼠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 咩利羊 {
-            get {
-                object obj = ResourceManager.GetObject("咩利羊", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 哈克龙 {
-            get {
-                object obj = ResourceManager.GetObject("哈克龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 哈力栗 {
-            get {
-                object obj = ResourceManager.GetObject("哈力栗", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 哈约克 {
-            get {
-                object obj = ResourceManager.GetObject("哈约克", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 哎呀球菇 {
-            get {
-                object obj = ResourceManager.GetObject("哎呀球菇", resourceCulture);
+                object obj = ResourceManager.GetObject("咬咬龟", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1473,16 +1153,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 哥达鸭 {
-            get {
-                object obj = ResourceManager.GetObject("哥达鸭", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 哭哭面具 {
             get {
                 object obj = ResourceManager.GetObject("哭哭面具", resourceCulture);
@@ -1493,9 +1163,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 哲尔尼亚斯 {
+        internal static System.Drawing.Bitmap 哭哭面具T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("哲尔尼亚斯", resourceCulture);
+                object obj = ResourceManager.GetObject("哭哭面具T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1503,9 +1173,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 喇叭啄鸟 {
+        internal static System.Drawing.Bitmap 啃果虫 {
             get {
-                object obj = ResourceManager.GetObject("喇叭啄鸟", resourceCulture);
+                object obj = ResourceManager.GetObject("啃果虫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1513,9 +1183,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 喇叭芽 {
+        internal static System.Drawing.Bitmap 啪咚猴 {
             get {
-                object obj = ResourceManager.GetObject("喇叭芽", resourceCulture);
+                object obj = ResourceManager.GetObject("啪咚猴", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 啪嚓海胆 {
+            get {
+                object obj = ResourceManager.GetObject("啪嚓海胆", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1533,9 +1213,29 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 喵喵T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 喵喵T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("喵喵T阿罗拉的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("喵喵T伽勒尔", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 喵喵T阿罗拉 {
+            get {
+                object obj = ResourceManager.GetObject("喵喵T阿罗拉", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 喵头目 {
+            get {
+                object obj = ResourceManager.GetObject("喵头目", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1546,16 +1246,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 喷嚏熊 {
             get {
                 object obj = ResourceManager.GetObject("喷嚏熊", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 喷火驼 {
-            get {
-                object obj = ResourceManager.GetObject("喷火驼", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1583,156 +1273,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 嘎啦嘎啦 {
-            get {
-                object obj = ResourceManager.GetObject("嘎啦嘎啦", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 嘎啦嘎啦T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("嘎啦嘎啦T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 嘟嘟 {
-            get {
-                object obj = ResourceManager.GetObject("嘟嘟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 嘟嘟利 {
-            get {
-                object obj = ResourceManager.GetObject("嘟嘟利", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 噗噗猪 {
-            get {
-                object obj = ResourceManager.GetObject("噗噗猪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 噬沙堡爷 {
-            get {
-                object obj = ResourceManager.GetObject("噬沙堡爷", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 四季鹿T冬天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("四季鹿T冬天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 四季鹿T夏天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("四季鹿T夏天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 四季鹿T春天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("四季鹿T春天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 四季鹿T秋天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("四季鹿T秋天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 固拉多 {
-            get {
-                object obj = ResourceManager.GetObject("固拉多", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 固拉多T原始回归的样子 {
-            get {
-                object obj = ResourceManager.GetObject("固拉多T原始回归的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 图图犬 {
-            get {
-                object obj = ResourceManager.GetObject("图图犬", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 圆丝蛛 {
-            get {
-                object obj = ResourceManager.GetObject("圆丝蛛", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 圆法师 {
-            get {
-                object obj = ResourceManager.GetObject("圆法师", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 圆蝌蚪 {
             get {
                 object obj = ResourceManager.GetObject("圆蝌蚪", resourceCulture);
@@ -1743,79 +1283,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 圆陆鲨 {
-            get {
-                object obj = ResourceManager.GetObject("圆陆鲨", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 圈圈熊 {
-            get {
-                object obj = ResourceManager.GetObject("圈圈熊", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 土台龟 {
-            get {
-                object obj = ResourceManager.GetObject("土台龟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 土地云T化身形态 {
-            get {
-                object obj = ResourceManager.GetObject("土地云T化身形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 土地云T灵兽形态 {
-            get {
-                object obj = ResourceManager.GetObject("土地云T灵兽形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 土居忍士 {
             get {
                 object obj = ResourceManager.GetObject("土居忍士", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 土狼犬 {
-            get {
-                object obj = ResourceManager.GetObject("土狼犬", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 土龙弟弟 {
-            get {
-                object obj = ResourceManager.GetObject("土龙弟弟", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1843,29 +1313,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 地鼠T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 地鼠T阿罗拉 {
             get {
-                object obj = ResourceManager.GetObject("地鼠T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 坐骑小羊 {
-            get {
-                object obj = ResourceManager.GetObject("坐骑小羊", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 坐骑山羊 {
-            get {
-                object obj = ResourceManager.GetObject("坐骑山羊", resourceCulture);
+                object obj = ResourceManager.GetObject("地鼠T阿罗拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1883,9 +1333,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 坚盾剑怪T刀剑形态 {
+        internal static System.Drawing.Bitmap 坚盾剑怪剑形态 {
             get {
-                object obj = ResourceManager.GetObject("坚盾剑怪T刀剑形态", resourceCulture);
+                object obj = ResourceManager.GetObject("坚盾剑怪剑形态", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1893,9 +1343,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 坚盾剑怪T盾牌形态 {
+        internal static System.Drawing.Bitmap 坚盾剑怪盾形态 {
             get {
-                object obj = ResourceManager.GetObject("坚盾剑怪T盾牌形态", resourceCulture);
+                object obj = ResourceManager.GetObject("坚盾剑怪盾形态", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1913,16 +1363,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 垃垃藻 {
-            get {
-                object obj = ResourceManager.GetObject("垃垃藻", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 基拉祈 {
             get {
                 object obj = ResourceManager.GetObject("基拉祈", resourceCulture);
@@ -1933,39 +1373,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 基格尔德T10_形态 {
+        internal static System.Drawing.Bitmap 堵拦熊 {
             get {
-                object obj = ResourceManager.GetObject("基格尔德T10_形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 基格尔德T50_形态 {
-            get {
-                object obj = ResourceManager.GetObject("基格尔德T50_形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 基格尔德T完全体形态 {
-            get {
-                object obj = ResourceManager.GetObject("基格尔德T完全体形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 墨海马 {
-            get {
-                object obj = ResourceManager.GetObject("墨海马", resourceCulture);
+                object obj = ResourceManager.GetObject("堵拦熊", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1983,116 +1393,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T国王造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T国王造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T女王造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T女王造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T心形造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T心形造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T星形造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T星形造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T歌舞伎造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T歌舞伎造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T淑女造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T淑女造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T绅士造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T绅士造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T菱形造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T菱形造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T贵妇造型 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T贵妇造型", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多丽米亚T野生的样子 {
-            get {
-                object obj = ResourceManager.GetObject("多丽米亚T野生的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 多刺菊石兽 {
-            get {
-                object obj = ResourceManager.GetObject("多刺菊石兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 多多冰 {
             get {
                 object obj = ResourceManager.GetObject("多多冰", resourceCulture);
@@ -2103,9 +1403,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 多边兽 {
+        internal static System.Drawing.Bitmap 多龙奇 {
             get {
-                object obj = ResourceManager.GetObject("多边兽", resourceCulture);
+                object obj = ResourceManager.GetObject("多龙奇", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2113,9 +1413,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 多边兽Ⅱ {
+        internal static System.Drawing.Bitmap 多龙巴鲁托 {
             get {
-                object obj = ResourceManager.GetObject("多边兽Ⅱ", resourceCulture);
+                object obj = ResourceManager.GetObject("多龙巴鲁托", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2123,9 +1423,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 多边兽Z {
+        internal static System.Drawing.Bitmap 多龙梅西亚 {
             get {
-                object obj = ResourceManager.GetObject("多边兽Z", resourceCulture);
+                object obj = ResourceManager.GetObject("多龙梅西亚", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2153,49 +1453,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 大剑鬼 {
-            get {
-                object obj = ResourceManager.GetObject("大剑鬼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大力鳄 {
-            get {
-                object obj = ResourceManager.GetObject("大力鳄", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 大嘴娃 {
             get {
                 object obj = ResourceManager.GetObject("大嘴娃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大嘴蝠 {
-            get {
-                object obj = ResourceManager.GetObject("大嘴蝠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大嘴雀 {
-            get {
-                object obj = ResourceManager.GetObject("大嘴雀", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2213,39 +1473,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 大奶罐 {
-            get {
-                object obj = ResourceManager.GetObject("大奶罐", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 大宇怪 {
             get {
                 object obj = ResourceManager.GetObject("大宇怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大尾狸 {
-            get {
-                object obj = ResourceManager.GetObject("大尾狸", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大尾立 {
-            get {
-                object obj = ResourceManager.GetObject("大尾立", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2263,9 +1493,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 大朝北鼻 {
+        internal static System.Drawing.Bitmap 大炭车 {
             get {
-                object obj = ResourceManager.GetObject("大朝北鼻", resourceCulture);
+                object obj = ResourceManager.GetObject("大炭车", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2273,69 +1503,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 大比鸟 {
+        internal static System.Drawing.Bitmap 大王铜象 {
             get {
-                object obj = ResourceManager.GetObject("大比鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大牙狸 {
-            get {
-                object obj = ResourceManager.GetObject("大牙狸", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大狼犬 {
-            get {
-                object obj = ResourceManager.GetObject("大狼犬", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大王燕 {
-            get {
-                object obj = ResourceManager.GetObject("大王燕", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大竺葵 {
-            get {
-                object obj = ResourceManager.GetObject("大竺葵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大舌头 {
-            get {
-                object obj = ResourceManager.GetObject("大舌头", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 大舌舔 {
-            get {
-                object obj = ResourceManager.GetObject("大舌舔", resourceCulture);
+                object obj = ResourceManager.GetObject("大王铜象", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2363,9 +1533,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 大针蜂 {
+        internal static System.Drawing.Bitmap 大葱鸭T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("大针蜂", resourceCulture);
+                object obj = ResourceManager.GetObject("大葱鸭T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2403,16 +1573,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 大食花 {
-            get {
-                object obj = ResourceManager.GetObject("大食花", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 天然雀 {
             get {
                 object obj = ResourceManager.GetObject("天然雀", resourceCulture);
@@ -2443,39 +1603,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 天蝎 {
+        internal static System.Drawing.Bitmap 天罩虫 {
             get {
-                object obj = ResourceManager.GetObject("天蝎", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 天蝎王 {
-            get {
-                object obj = ResourceManager.GetObject("天蝎王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 太古盔甲 {
-            get {
-                object obj = ResourceManager.GetObject("太古盔甲", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 太古羽虫 {
-            get {
-                object obj = ResourceManager.GetObject("太古羽虫", resourceCulture);
+                object obj = ResourceManager.GetObject("天罩虫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2513,9 +1643,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 头巾混混 {
+        internal static System.Drawing.Bitmap 太阳珊瑚T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("头巾混混", resourceCulture);
+                object obj = ResourceManager.GetObject("太阳珊瑚T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2523,9 +1653,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 头盖龙 {
+        internal static System.Drawing.Bitmap 头巾混混 {
             get {
-                object obj = ResourceManager.GetObject("头盖龙", resourceCulture);
+                object obj = ResourceManager.GetObject("头巾混混", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2563,6 +1693,26 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 奈克洛兹玛_T拂晓之翼 {
+            get {
+                object obj = ResourceManager.GetObject("奈克洛兹玛_T拂晓之翼", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 奈克洛兹玛T黄昏之鬃 {
+            get {
+                object obj = ResourceManager.GetObject("奈克洛兹玛T黄昏之鬃", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 好啦鱿 {
             get {
                 object obj = ResourceManager.GetObject("好啦鱿", resourceCulture);
@@ -2576,36 +1726,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 好坏星 {
             get {
                 object obj = ResourceManager.GetObject("好坏星", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 好胜毛蟹 {
-            get {
-                object obj = ResourceManager.GetObject("好胜毛蟹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 好胜蟹 {
-            get {
-                object obj = ResourceManager.GetObject("好胜蟹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 妖火红狐 {
-            get {
-                object obj = ResourceManager.GetObject("妖火红狐", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2653,109 +1773,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 姆克儿 {
+        internal static System.Drawing.Bitmap 小仙奶 {
             get {
-                object obj = ResourceManager.GetObject("姆克儿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 姆克鸟 {
-            get {
-                object obj = ResourceManager.GetObject("姆克鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 姆克鹰 {
-            get {
-                object obj = ResourceManager.GetObject("姆克鹰", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 始祖大鸟 {
-            get {
-                object obj = ResourceManager.GetObject("始祖大鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 始祖小鸟 {
-            get {
-                object obj = ResourceManager.GetObject("始祖小鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 安瓢虫 {
-            get {
-                object obj = ResourceManager.GetObject("安瓢虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 宝包茧 {
-            get {
-                object obj = ResourceManager.GetObject("宝包茧", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 宝宝丁 {
-            get {
-                object obj = ResourceManager.GetObject("宝宝丁", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 宝宝暴龙 {
-            get {
-                object obj = ResourceManager.GetObject("宝宝暴龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 宝石海星 {
-            get {
-                object obj = ResourceManager.GetObject("宝石海星", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 宝贝龙 {
-            get {
-                object obj = ResourceManager.GetObject("宝贝龙", resourceCulture);
+                object obj = ResourceManager.GetObject("小仙奶", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2783,69 +1803,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 小小象 {
-            get {
-                object obj = ResourceManager.GetObject("小小象", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 小山猪 {
             get {
                 object obj = ResourceManager.GetObject("小山猪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小拉达 {
-            get {
-                object obj = ResourceManager.GetObject("小拉达", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小拉达T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("小拉达T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小拳石 {
-            get {
-                object obj = ResourceManager.GetObject("小拳石", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小拳石T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("小拳石T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小智版甲贺忍蛙 {
-            get {
-                object obj = ResourceManager.GetObject("小智版甲贺忍蛙", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2873,29 +1833,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 小海狮 {
-            get {
-                object obj = ResourceManager.GetObject("小海狮", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小火焰猴 {
-            get {
-                object obj = ResourceManager.GetObject("小火焰猴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 小火马 {
             get {
                 object obj = ResourceManager.GetObject("小火马", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 小火马T伽勒尔 {
+            get {
+                object obj = ResourceManager.GetObject("小火马T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2923,19 +1873,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 小狮狮 {
+        internal static System.Drawing.Bitmap 小炭仔 {
             get {
-                object obj = ResourceManager.GetObject("小狮狮", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小猫怪 {
-            get {
-                object obj = ResourceManager.GetObject("小猫怪", resourceCulture);
+                object obj = ResourceManager.GetObject("小炭仔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2946,246 +1886,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 小球飞鱼 {
             get {
                 object obj = ResourceManager.GetObject("小球飞鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小碎钻 {
-            get {
-                object obj = ResourceManager.GetObject("小碎钻", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小磁怪 {
-            get {
-                object obj = ResourceManager.GetObject("小磁怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小福蛋 {
-            get {
-                object obj = ResourceManager.GetObject("小福蛋", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小笃儿 {
-            get {
-                object obj = ResourceManager.GetObject("小笃儿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小箭雀 {
-            get {
-                object obj = ResourceManager.GetObject("小箭雀", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小约克 {
-            get {
-                object obj = ResourceManager.GetObject("小约克", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小锯鳄 {
-            get {
-                object obj = ResourceManager.GetObject("小锯鳄", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T橙色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T橙色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T流星的样子 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T流星的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T浅蓝色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T浅蓝色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T紫色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T紫色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T红色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T红色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T绿色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T绿色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T蓝色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T蓝色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 小陨星T黄色核心 {
-            get {
-                object obj = ResourceManager.GetObject("小陨星T黄色核心", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尖牙笼 {
-            get {
-                object obj = ResourceManager.GetObject("尖牙笼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尖牙陆鲨 {
-            get {
-                object obj = ResourceManager.GetObject("尖牙陆鲨", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尼多兰 {
-            get {
-                object obj = ResourceManager.GetObject("尼多兰", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尼多力诺 {
-            get {
-                object obj = ResourceManager.GetObject("尼多力诺", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尼多后 {
-            get {
-                object obj = ResourceManager.GetObject("尼多后", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尼多娜 {
-            get {
-                object obj = ResourceManager.GetObject("尼多娜", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尼多朗 {
-            get {
-                object obj = ResourceManager.GetObject("尼多朗", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尼多王 {
-            get {
-                object obj = ResourceManager.GetObject("尼多王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 尾立 {
-            get {
-                object obj = ResourceManager.GetObject("尾立", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3213,9 +1913,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 岩狗狗 {
+        internal static System.Drawing.Bitmap 巨炭山 {
             get {
-                object obj = ResourceManager.GetObject("岩狗狗", resourceCulture);
+                object obj = ResourceManager.GetObject("巨炭山", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3223,19 +1923,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 巨沼怪 {
+        internal static System.Drawing.Bitmap 巨石丁 {
             get {
-                object obj = ResourceManager.GetObject("巨沼怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 巨牙鲨 {
-            get {
-                object obj = ResourceManager.GetObject("巨牙鲨", resourceCulture);
+                object obj = ResourceManager.GetObject("巨石丁", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3253,49 +1943,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 巨蔓藤 {
-            get {
-                object obj = ResourceManager.GetObject("巨蔓藤", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 巨金怪 {
-            get {
-                object obj = ResourceManager.GetObject("巨金怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 巨钳螳螂 {
-            get {
-                object obj = ResourceManager.GetObject("巨钳螳螂", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 巨钳蟹 {
             get {
                 object obj = ResourceManager.GetObject("巨钳蟹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 差不多娃娃 {
-            get {
-                object obj = ResourceManager.GetObject("差不多娃娃", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3313,119 +1963,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 布里卡隆 {
+        internal static System.Drawing.Bitmap 布莉姆温 {
             get {
-                object obj = ResourceManager.GetObject("布里卡隆", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 布鲁 {
-            get {
-                object obj = ResourceManager.GetObject("布鲁", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 布鲁皇 {
-            get {
-                object obj = ResourceManager.GetObject("布鲁皇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 师父鼬 {
-            get {
-                object obj = ResourceManager.GetObject("师父鼬", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 帕奇利兹 {
-            get {
-                object obj = ResourceManager.GetObject("帕奇利兹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 帕路奇亚 {
-            get {
-                object obj = ResourceManager.GetObject("帕路奇亚", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 帝牙卢卡 {
-            get {
-                object obj = ResourceManager.GetObject("帝牙卢卡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 帝牙海狮 {
-            get {
-                object obj = ResourceManager.GetObject("帝牙海狮", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 帝王拿波 {
-            get {
-                object obj = ResourceManager.GetObject("帝王拿波", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 席多蓝恩 {
-            get {
-                object obj = ResourceManager.GetObject("席多蓝恩", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 幕下力士 {
-            get {
-                object obj = ResourceManager.GetObject("幕下力士", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 幸福蛋 {
-            get {
-                object obj = ResourceManager.GetObject("幸福蛋", resourceCulture);
+                object obj = ResourceManager.GetObject("布莉姆温", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3443,9 +1983,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 庞岩怪 {
+        internal static System.Drawing.Bitmap 幼棉棉 {
             get {
-                object obj = ResourceManager.GetObject("庞岩怪", resourceCulture);
+                object obj = ResourceManager.GetObject("幼棉棉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3453,9 +1993,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 引梦貘人 {
+        internal static System.Drawing.Bitmap 庞岩怪 {
             get {
-                object obj = ResourceManager.GetObject("引梦貘人", resourceCulture);
+                object obj = ResourceManager.GetObject("庞岩怪", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3473,9 +2013,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 弱丁鱼T鱼群的样子 {
+        internal static System.Drawing.Bitmap 弱丁鱼T群聚的样子 {
             get {
-                object obj = ResourceManager.GetObject("弱丁鱼T鱼群的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("弱丁鱼T群聚的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3486,16 +2026,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 强颚鸡母虫 {
             get {
                 object obj = ResourceManager.GetObject("强颚鸡母虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 彩粉蝶 {
-            get {
-                object obj = ResourceManager.GetObject("彩粉蝶", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3543,16 +2073,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 快龙 {
-            get {
-                object obj = ResourceManager.GetObject("快龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 念力土偶 {
             get {
                 object obj = ResourceManager.GetObject("念力土偶", resourceCulture);
@@ -3563,9 +2083,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 急冻鸟 {
+        internal static System.Drawing.Bitmap 怖思壶 {
             get {
-                object obj = ResourceManager.GetObject("急冻鸟", resourceCulture);
+                object obj = ResourceManager.GetObject("怖思壶", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3573,9 +2093,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 怨影娃娃 {
+        internal static System.Drawing.Bitmap 怖思壶T真品 {
             get {
-                object obj = ResourceManager.GetObject("怨影娃娃", resourceCulture);
+                object obj = ResourceManager.GetObject("怖思壶T真品", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3593,76 +2113,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 怪颚龙 {
-            get {
-                object obj = ResourceManager.GetObject("怪颚龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 恰雷姆 {
-            get {
-                object obj = ResourceManager.GetObject("恰雷姆", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 恶食大王 {
-            get {
-                object obj = ResourceManager.GetObject("恶食大王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 惊角鹿 {
-            get {
-                object obj = ResourceManager.GetObject("惊角鹿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 惩戒胡帕 {
-            get {
-                object obj = ResourceManager.GetObject("惩戒胡帕", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 懒人獭 {
-            get {
-                object obj = ResourceManager.GetObject("懒人獭", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 战槌龙 {
-            get {
-                object obj = ResourceManager.GetObject("战槌龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 战舞郎 {
             get {
                 object obj = ResourceManager.GetObject("战舞郎", resourceCulture);
@@ -3673,9 +2123,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 戴鲁比 {
+        internal static System.Drawing.Bitmap 戽斗尖梭 {
             get {
-                object obj = ResourceManager.GetObject("戴鲁比", resourceCulture);
+                object obj = ResourceManager.GetObject("戽斗尖梭", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3743,59 +2193,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 护城龙 {
-            get {
-                object obj = ResourceManager.GetObject("护城龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 拉帝亚斯 {
-            get {
-                object obj = ResourceManager.GetObject("拉帝亚斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 拉帝欧斯 {
-            get {
-                object obj = ResourceManager.GetObject("拉帝欧斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 拉普拉斯 {
             get {
                 object obj = ResourceManager.GetObject("拉普拉斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 拉达 {
-            get {
-                object obj = ResourceManager.GetObject("拉达", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 拉达T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("拉达T阿罗拉的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3813,6 +2213,16 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 拳拳蛸 {
+            get {
+                object obj = ResourceManager.GetObject("拳拳蛸", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 拳海参 {
             get {
                 object obj = ResourceManager.GetObject("拳海参", resourceCulture);
@@ -3823,9 +2233,29 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 捣蛋小妖 {
+            get {
+                object obj = ResourceManager.GetObject("捣蛋小妖", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 捷克罗姆 {
             get {
                 object obj = ResourceManager.GetObject("捷克罗姆", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 捷拉奥拉 {
+            get {
+                object obj = ResourceManager.GetObject("捷拉奥拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3853,9 +2283,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 探探鼠 {
+        internal static System.Drawing.Bitmap 提布莉姆 {
             get {
-                object obj = ResourceManager.GetObject("探探鼠", resourceCulture);
+                object obj = ResourceManager.GetObject("提布莉姆", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3873,29 +2303,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 摇篮百合 {
-            get {
-                object obj = ResourceManager.GetObject("摇篮百合", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 摔角鹰人 {
             get {
                 object obj = ResourceManager.GetObject("摔角鹰人", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 摩鲁蛾 {
-            get {
-                object obj = ResourceManager.GetObject("摩鲁蛾", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3913,19 +2323,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 斑斑马 {
+        internal static System.Drawing.Bitmap 敲音猴 {
             get {
-                object obj = ResourceManager.GetObject("斑斑马", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 斗笠菇 {
-            get {
-                object obj = ResourceManager.GetObject("斗笠菇", resourceCulture);
+                object obj = ResourceManager.GetObject("敲音猴", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3973,6 +2373,26 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 无极汰那 {
+            get {
+                object obj = ResourceManager.GetObject("无极汰那", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 无极汰那T无极巨化 {
+            get {
+                object obj = ResourceManager.GetObject("无极汰那T无极巨化", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 无畏小子 {
             get {
                 object obj = ResourceManager.GetObject("无畏小子", resourceCulture);
@@ -3993,29 +2413,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 晃晃斑 {
-            get {
-                object obj = ResourceManager.GetObject("晃晃斑", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 智挥猩 {
             get {
                 object obj = ResourceManager.GetObject("智挥猩", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 暖暖猪 {
-            get {
-                object obj = ResourceManager.GetObject("暖暖猪", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4033,9 +2433,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 暴雪王 {
+        internal static System.Drawing.Bitmap 暴噬龟 {
             get {
-                object obj = ResourceManager.GetObject("暴雪王", resourceCulture);
+                object obj = ResourceManager.GetObject("暴噬龟", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4043,9 +2443,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 暴飞龙 {
+        internal static System.Drawing.Bitmap 暴雪王 {
             get {
-                object obj = ResourceManager.GetObject("暴飞龙", resourceCulture);
+                object obj = ResourceManager.GetObject("暴雪王", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4073,39 +2473,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 月桂叶 {
-            get {
-                object obj = ResourceManager.GetObject("月桂叶", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 月石 {
             get {
                 object obj = ResourceManager.GetObject("月石", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 朝北鼻 {
-            get {
-                object obj = ResourceManager.GetObject("朝北鼻", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 木守宫 {
-            get {
-                object obj = ResourceManager.GetObject("木守宫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4133,16 +2503,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 未知图腾 {
-            get {
-                object obj = ResourceManager.GetObject("未知图腾", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 朽木妖 {
             get {
                 object obj = ResourceManager.GetObject("朽木妖", resourceCulture);
@@ -4156,6 +2516,36 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 杖尾鳞甲龙 {
             get {
                 object obj = ResourceManager.GetObject("杖尾鳞甲龙", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 来悲茶 {
+            get {
+                object obj = ResourceManager.GetObject("来悲茶", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 来悲茶T真品 {
+            get {
+                object obj = ResourceManager.GetObject("来悲茶T真品", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 来电汪 {
+            get {
+                object obj = ResourceManager.GetObject("来电汪", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4193,46 +2583,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 树枕尾熊 {
-            get {
-                object obj = ResourceManager.GetObject("树枕尾熊", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 树林龟 {
-            get {
-                object obj = ResourceManager.GetObject("树林龟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 梦妖 {
-            get {
-                object obj = ResourceManager.GetObject("梦妖", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 梦妖魔 {
-            get {
-                object obj = ResourceManager.GetObject("梦妖魔", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 梦幻 {
             get {
                 object obj = ResourceManager.GetObject("梦幻", resourceCulture);
@@ -4253,9 +2603,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 梦歌仙人掌 {
+        internal static System.Drawing.Bitmap 樱花儿晴天形态 {
             get {
-                object obj = ResourceManager.GetObject("梦歌仙人掌", resourceCulture);
+                object obj = ResourceManager.GetObject("樱花儿晴天形态", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4263,59 +2613,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 森林蜥蜴 {
+        internal static System.Drawing.Bitmap 樱花儿阴天形态 {
             get {
-                object obj = ResourceManager.GetObject("森林蜥蜴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 椰蛋树 {
-            get {
-                object obj = ResourceManager.GetObject("椰蛋树", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 椰蛋树T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("椰蛋树T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 榛果球 {
-            get {
-                object obj = ResourceManager.GetObject("榛果球", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 樱花儿T晴天形态 {
-            get {
-                object obj = ResourceManager.GetObject("樱花儿T晴天形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 樱花儿T阴天形态 {
-            get {
-                object obj = ResourceManager.GetObject("樱花儿T阴天形态", resourceCulture);
+                object obj = ResourceManager.GetObject("樱花儿阴天形态", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4333,16 +2633,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 樱花鱼 {
-            get {
-                object obj = ResourceManager.GetObject("樱花鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 橡实果 {
             get {
                 object obj = ResourceManager.GetObject("橡实果", resourceCulture);
@@ -4353,19 +2643,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 正电拍拍 {
+        internal static System.Drawing.Bitmap 死神板 {
             get {
-                object obj = ResourceManager.GetObject("正电拍拍", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 步哨鼠 {
-            get {
-                object obj = ResourceManager.GetObject("步哨鼠", resourceCulture);
+                object obj = ResourceManager.GetObject("死神板", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4383,19 +2663,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 毒刺水母 {
+        internal static System.Drawing.Bitmap 毒电婴 {
             get {
-                object obj = ResourceManager.GetObject("毒刺水母", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 毒粉蛾 {
-            get {
-                object obj = ResourceManager.GetObject("毒粉蛾", resourceCulture);
+                object obj = ResourceManager.GetObject("毒电婴", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4413,39 +2683,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 毒藻龙 {
-            get {
-                object obj = ResourceManager.GetObject("毒藻龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 毒骷蛙 {
             get {
                 object obj = ResourceManager.GetObject("毒骷蛙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 比克提尼 {
-            get {
-                object obj = ResourceManager.GetObject("比克提尼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 比比鸟 {
-            get {
-                object obj = ResourceManager.GetObject("比比鸟", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4473,9 +2713,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 毛球 {
+        internal static System.Drawing.Bitmap 毛毛角羊 {
             get {
-                object obj = ResourceManager.GetObject("毛球", resourceCulture);
+                object obj = ResourceManager.GetObject("毛毛角羊", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4483,29 +2723,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 毽子棉 {
+        internal static System.Drawing.Bitmap 毛辫羊 {
             get {
-                object obj = ResourceManager.GetObject("毽子棉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 毽子花 {
-            get {
-                object obj = ResourceManager.GetObject("毽子花", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 毽子草 {
-            get {
-                object obj = ResourceManager.GetObject("毽子草", resourceCulture);
+                object obj = ResourceManager.GetObject("毛辫羊", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4523,29 +2743,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 水君 {
-            get {
-                object obj = ResourceManager.GetObject("水君", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 水晶灯火灵 {
             get {
                 object obj = ResourceManager.GetObject("水晶灯火灵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 水水獭 {
-            get {
-                object obj = ResourceManager.GetObject("水水獭", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4563,19 +2763,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 水跃鱼 {
+        internal static System.Drawing.Bitmap 沙包蛇 {
             get {
-                object obj = ResourceManager.GetObject("水跃鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 沙丘娃 {
-            get {
-                object obj = ResourceManager.GetObject("沙丘娃", resourceCulture);
+                object obj = ResourceManager.GetObject("沙包蛇", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4623,9 +2813,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 沙铃仙人掌 {
+        internal static System.Drawing.Bitmap 沙螺蟒 {
             get {
-                object obj = ResourceManager.GetObject("沙铃仙人掌", resourceCulture);
+                object obj = ResourceManager.GetObject("沙螺蟒", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4646,16 +2836,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 沼王 {
             get {
                 object obj = ResourceManager.GetObject("沼王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 沼跃鱼 {
-            get {
-                object obj = ResourceManager.GetObject("沼跃鱼", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4703,56 +2883,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 波加曼 {
-            get {
-                object obj = ResourceManager.GetObject("波加曼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 波士可多拉 {
-            get {
-                object obj = ResourceManager.GetObject("波士可多拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 波尔凯尼恩 {
-            get {
-                object obj = ResourceManager.GetObject("波尔凯尼恩", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 波波 {
-            get {
-                object obj = ResourceManager.GetObject("波波", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 波皇子 {
-            get {
-                object obj = ResourceManager.GetObject("波皇子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 泥偶小人 {
             get {
                 object obj = ResourceManager.GetObject("泥偶小人", resourceCulture);
@@ -4783,6 +2913,16 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 泥巴鱼T伽勒尔 {
+            get {
+                object obj = ResourceManager.GetObject("泥巴鱼T伽勒尔", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 泥泥鳅 {
             get {
                 object obj = ResourceManager.GetObject("泥泥鳅", resourceCulture);
@@ -4803,19 +2943,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 泳圈鼬 {
+        internal static System.Drawing.Bitmap 泪眼蜥 {
             get {
-                object obj = ResourceManager.GetObject("泳圈鼬", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 洛奇亚 {
-            get {
-                object obj = ResourceManager.GetObject("洛奇亚", resourceCulture);
+                object obj = ResourceManager.GetObject("泪眼蜥", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4833,49 +2963,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 派拉斯 {
-            get {
-                object obj = ResourceManager.GetObject("派拉斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 派拉斯特 {
-            get {
-                object obj = ResourceManager.GetObject("派拉斯特", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 流氓熊猫 {
             get {
                 object obj = ResourceManager.GetObject("流氓熊猫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 流氓鳄 {
-            get {
-                object obj = ResourceManager.GetObject("流氓鳄", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 浮潜鼬 {
-            get {
-                object obj = ResourceManager.GetObject("浮潜鼬", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4903,79 +2993,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 海刺龙 {
-            get {
-                object obj = ResourceManager.GetObject("海刺龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 海星星 {
-            get {
-                object obj = ResourceManager.GetObject("海星星", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 海豹球 {
-            get {
-                object obj = ResourceManager.GetObject("海豹球", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 海魔狮 {
-            get {
-                object obj = ResourceManager.GetObject("海魔狮", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 混混鳄 {
-            get {
-                object obj = ResourceManager.GetObject("混混鳄", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 清洗洛托姆 {
             get {
                 object obj = ResourceManager.GetObject("清洗洛托姆", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 溜溜糖球 {
-            get {
-                object obj = ResourceManager.GetObject("溜溜糖球", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 溶食兽 {
-            get {
-                object obj = ResourceManager.GetObject("溶食兽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5033,16 +3053,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 火岩鼠 {
-            get {
-                object obj = ResourceManager.GetObject("火岩鼠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 火恐龙 {
             get {
                 object obj = ResourceManager.GetObject("火恐龙", resourceCulture);
@@ -5063,109 +3073,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 火暴兽 {
-            get {
-                object obj = ResourceManager.GetObject("火暴兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火暴猴 {
-            get {
-                object obj = ResourceManager.GetObject("火暴猴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火炎狮 {
-            get {
-                object obj = ResourceManager.GetObject("火炎狮", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火焰鸟 {
-            get {
-                object obj = ResourceManager.GetObject("火焰鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火焰鸡 {
-            get {
-                object obj = ResourceManager.GetObject("火焰鸡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火狐狸 {
-            get {
-                object obj = ResourceManager.GetObject("火狐狸", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火球鼠 {
-            get {
-                object obj = ResourceManager.GetObject("火球鼠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火神蛾 {
-            get {
-                object obj = ResourceManager.GetObject("火神蛾", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火稚鸡 {
-            get {
-                object obj = ResourceManager.GetObject("火稚鸡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 火箭雀 {
-            get {
-                object obj = ResourceManager.GetObject("火箭雀", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 火红不倒翁 {
             get {
                 object obj = ResourceManager.GetObject("火红不倒翁", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 火红不倒翁T伽勒尔 {
+            get {
+                object obj = ResourceManager.GetObject("火红不倒翁T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5213,19 +3133,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 炎帝 {
+        internal static System.Drawing.Bitmap 炎兔儿 {
             get {
-                object obj = ResourceManager.GetObject("炎帝", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 炎武王 {
-            get {
-                object obj = ResourceManager.GetObject("炎武王", resourceCulture);
+                object obj = ResourceManager.GetObject("炎兔儿", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5243,39 +3153,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 炒炒猪 {
-            get {
-                object obj = ResourceManager.GetObject("炒炒猪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 炽焰咆哮虎 {
             get {
                 object obj = ResourceManager.GetObject("炽焰咆哮虎", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 烈咬陆鲨 {
-            get {
-                object obj = ResourceManager.GetObject("烈咬陆鲨", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 烈焰猴 {
-            get {
-                object obj = ResourceManager.GetObject("烈焰猴", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5293,29 +3173,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 烈空坐 {
+        internal static System.Drawing.Bitmap 烈焰马T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("烈空坐", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 烈箭鹰 {
-            get {
-                object obj = ResourceManager.GetObject("烈箭鹰", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 烈雀 {
-            get {
-                object obj = ResourceManager.GetObject("烈雀", resourceCulture);
+                object obj = ResourceManager.GetObject("烈焰马T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5333,9 +3193,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 热带龙 {
+        internal static System.Drawing.Bitmap 烧火蚣 {
             get {
-                object obj = ResourceManager.GetObject("热带龙", resourceCulture);
+                object obj = ResourceManager.GetObject("烧火蚣", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 焚焰蚣 {
+            get {
+                object obj = ResourceManager.GetObject("焚焰蚣", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5373,59 +3243,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 熊宝宝 {
-            get {
-                object obj = ResourceManager.GetObject("熊宝宝", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 熔岩虫 {
-            get {
-                object obj = ResourceManager.GetObject("熔岩虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 熔岩蜗牛 {
-            get {
-                object obj = ResourceManager.GetObject("熔岩蜗牛", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 熔蚁兽 {
             get {
                 object obj = ResourceManager.GetObject("熔蚁兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 燃烧虫 {
-            get {
-                object obj = ResourceManager.GetObject("燃烧虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 爆炸头水牛 {
-            get {
-                object obj = ResourceManager.GetObject("爆炸头水牛", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5443,9 +3263,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 爆肌蚊 {
+        internal static System.Drawing.Bitmap 爱管侍T雄性的样子 {
             get {
-                object obj = ResourceManager.GetObject("爆肌蚊", resourceCulture);
+                object obj = ResourceManager.GetObject("爱管侍T雄性的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5453,39 +3273,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 爆音怪 {
+        internal static System.Drawing.Bitmap 爱管侍T雌性的样子 {
             get {
-                object obj = ResourceManager.GetObject("爆音怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 爆香猴 {
-            get {
-                object obj = ResourceManager.GetObject("爆香猴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 爆香猿 {
-            get {
-                object obj = ResourceManager.GetObject("爆香猿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 爱心鱼 {
-            get {
-                object obj = ResourceManager.GetObject("爱心鱼", resourceCulture);
+                object obj = ResourceManager.GetObject("爱管侍T雌性的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5513,6 +3303,16 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 狐大盗 {
+            get {
+                object obj = ResourceManager.GetObject("狐大盗", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 狙射树枭 {
             get {
                 object obj = ResourceManager.GetObject("狙射树枭", resourceCulture);
@@ -5526,16 +3326,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 狡猾天狗 {
             get {
                 object obj = ResourceManager.GetObject("狡猾天狗", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 狩猎凤蝶 {
-            get {
-                object obj = ResourceManager.GetObject("狩猎凤蝶", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5563,36 +3353,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 独角虫 {
-            get {
-                object obj = ResourceManager.GetObject("独角虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 猎斑鱼 {
-            get {
-                object obj = ResourceManager.GetObject("猎斑鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 猛火猴 {
-            get {
-                object obj = ResourceManager.GetObject("猛火猴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 猫头夜鹰 {
             get {
                 object obj = ResourceManager.GetObject("猫头夜鹰", resourceCulture);
@@ -5613,69 +3373,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 猫老大T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 猫老大T阿罗拉 {
             get {
-                object obj = ResourceManager.GetObject("猫老大T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 猫鼬少 {
-            get {
-                object obj = ResourceManager.GetObject("猫鼬少", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 猫鼬探长 {
-            get {
-                object obj = ResourceManager.GetObject("猫鼬探长", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 猫鼬斩 {
-            get {
-                object obj = ResourceManager.GetObject("猫鼬斩", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 猴怪 {
-            get {
-                object obj = ResourceManager.GetObject("猴怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 玛力露 {
-            get {
-                object obj = ResourceManager.GetObject("玛力露", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 玛力露丽 {
-            get {
-                object obj = ResourceManager.GetObject("玛力露丽", resourceCulture);
+                object obj = ResourceManager.GetObject("猫老大T阿罗拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5693,69 +3393,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 玛机雅娜 {
-            get {
-                object obj = ResourceManager.GetObject("玛机雅娜", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 玛机雅娜T500年前的颜色 {
-            get {
-                object obj = ResourceManager.GetObject("玛机雅娜T500年前的颜色", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 玛沙那 {
-            get {
-                object obj = ResourceManager.GetObject("玛沙那", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 玛狃拉 {
             get {
                 object obj = ResourceManager.GetObject("玛狃拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 玛瑙水母 {
-            get {
-                object obj = ResourceManager.GetObject("玛瑙水母", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 玛纳霏 {
-            get {
-                object obj = ResourceManager.GetObject("玛纳霏", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 珍珠贝 {
-            get {
-                object obj = ResourceManager.GetObject("珍珠贝", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5803,16 +3443,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 甜甜萤 {
-            get {
-                object obj = ResourceManager.GetObject("甜甜萤", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 甜竹竹 {
             get {
                 object obj = ResourceManager.GetObject("甜竹竹", resourceCulture);
@@ -5826,86 +3456,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 甜舞妮 {
             get {
                 object obj = ResourceManager.GetObject("甜舞妮", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 由克希 {
-            get {
-                object obj = ResourceManager.GetObject("由克希", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 甲壳茧 {
-            get {
-                object obj = ResourceManager.GetObject("甲壳茧", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 甲壳龙 {
-            get {
-                object obj = ResourceManager.GetObject("甲壳龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 甲贺忍蛙 {
-            get {
-                object obj = ResourceManager.GetObject("甲贺忍蛙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 电击兽 {
-            get {
-                object obj = ResourceManager.GetObject("电击兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 电击怪 {
-            get {
-                object obj = ResourceManager.GetObject("电击怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 电击魔兽 {
-            get {
-                object obj = ResourceManager.GetObject("电击魔兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 电束木 {
-            get {
-                object obj = ResourceManager.GetObject("电束木", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5933,16 +3483,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 电萤虫 {
-            get {
-                object obj = ResourceManager.GetObject("电萤虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 电蜘蛛 {
             get {
                 object obj = ResourceManager.GetObject("电蜘蛛", resourceCulture);
@@ -5953,29 +3493,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 电飞鼠 {
+        internal static System.Drawing.Bitmap 白蓬蓬 {
             get {
-                object obj = ResourceManager.GetObject("电飞鼠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 电龙 {
-            get {
-                object obj = ResourceManager.GetObject("电龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 白海狮 {
-            get {
-                object obj = ResourceManager.GetObject("白海狮", resourceCulture);
+                object obj = ResourceManager.GetObject("白蓬蓬", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -5986,26 +3506,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 百变怪 {
             get {
                 object obj = ResourceManager.GetObject("百变怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 百合根娃娃 {
-            get {
-                object obj = ResourceManager.GetObject("百合根娃娃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 百足蜈蚣 {
-            get {
-                object obj = ResourceManager.GetObject("百足蜈蚣", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6033,9 +3533,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 皮卡丘T丰缘帽子 {
+        internal static System.Drawing.Bitmap 皮卡丘T丰源帽 {
             get {
-                object obj = ResourceManager.GetObject("皮卡丘T丰缘帽子", resourceCulture);
+                object obj = ResourceManager.GetObject("皮卡丘T丰源帽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6043,9 +3543,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 皮卡丘T初始帽子 {
+        internal static System.Drawing.Bitmap 皮卡丘T决定你帽 {
             get {
-                object obj = ResourceManager.GetObject("皮卡丘T初始帽子", resourceCulture);
+                object obj = ResourceManager.GetObject("皮卡丘T决定你帽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6053,9 +3553,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 皮卡丘T卡洛斯帽子 {
+        internal static System.Drawing.Bitmap 皮卡丘T卡洛斯帽 {
             get {
-                object obj = ResourceManager.GetObject("皮卡丘T卡洛斯帽子", resourceCulture);
+                object obj = ResourceManager.GetObject("皮卡丘T卡洛斯帽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6063,9 +3563,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 皮卡丘T合众帽子 {
+        internal static System.Drawing.Bitmap 皮卡丘T合众帽 {
             get {
-                object obj = ResourceManager.GetObject("皮卡丘T合众帽子", resourceCulture);
+                object obj = ResourceManager.GetObject("皮卡丘T合众帽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6073,9 +3573,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 皮卡丘T神奥帽子 {
+        internal static System.Drawing.Bitmap 皮卡丘T无印帽 {
             get {
-                object obj = ResourceManager.GetObject("皮卡丘T神奥帽子", resourceCulture);
+                object obj = ResourceManager.GetObject("皮卡丘T无印帽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6083,9 +3583,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 皮卡丘T阿罗拉帽子 {
+        internal static System.Drawing.Bitmap 皮卡丘T神奥帽 {
             get {
-                object obj = ResourceManager.GetObject("皮卡丘T阿罗拉帽子", resourceCulture);
+                object obj = ResourceManager.GetObject("皮卡丘T神奥帽", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 皮卡丘T阿罗拉帽 {
+            get {
+                object obj = ResourceManager.GetObject("皮卡丘T阿罗拉帽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6133,49 +3643,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 盔甲鸟 {
-            get {
-                object obj = ResourceManager.GetObject("盔甲鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 盖欧卡 {
-            get {
-                object obj = ResourceManager.GetObject("盖欧卡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 盖欧卡T原始回归的样子 {
-            get {
-                object obj = ResourceManager.GetObject("盖欧卡T原始回归的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 盖盖虫 {
             get {
                 object obj = ResourceManager.GetObject("盖盖虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 盖诺赛克特 {
-            get {
-                object obj = ResourceManager.GetObject("盖诺赛克特", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6193,19 +3663,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 盾甲茧 {
+        internal static System.Drawing.Bitmap 直冲熊T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("盾甲茧", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 盾甲龙 {
-            get {
-                object obj = ResourceManager.GetObject("盾甲龙", resourceCulture);
+                object obj = ResourceManager.GetObject("直冲熊T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6263,16 +3723,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 磨牙彩皮鱼 {
-            get {
-                object obj = ResourceManager.GetObject("磨牙彩皮鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 秃鹰丫头 {
             get {
                 object obj = ResourceManager.GetObject("秃鹰丫头", resourceCulture);
@@ -6323,39 +3773,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 穿山王 {
+        internal static System.Drawing.Bitmap 稚山雀 {
             get {
-                object obj = ResourceManager.GetObject("穿山王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 穿山王T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("穿山王T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 穿山鼠 {
-            get {
-                object obj = ResourceManager.GetObject("穿山鼠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 穿山鼠T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("穿山鼠T阿罗拉的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("稚山雀", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6393,29 +3813,19 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 粉蝶虫 {
-            get {
-                object obj = ResourceManager.GetObject("粉蝶虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 粉蝶蛹 {
-            get {
-                object obj = ResourceManager.GetObject("粉蝶蛹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 粉香香 {
             get {
                 object obj = ResourceManager.GetObject("粉香香", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 索侦虫 {
+            get {
+                object obj = ResourceManager.GetObject("索侦虫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6433,109 +3843,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 索罗亚 {
-            get {
-                object obj = ResourceManager.GetObject("索罗亚", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 索罗亚克 {
-            get {
-                object obj = ResourceManager.GetObject("索罗亚克", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 纸御剑 {
-            get {
-                object obj = ResourceManager.GetObject("纸御剑", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 绅士蛾 {
-            get {
-                object obj = ResourceManager.GetObject("绅士蛾", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 结冰洛托姆 {
             get {
                 object obj = ResourceManager.GetObject("结冰洛托姆", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 结草儿T垃圾蓑衣 {
-            get {
-                object obj = ResourceManager.GetObject("结草儿T垃圾蓑衣", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 结草儿T砂土蓑衣 {
-            get {
-                object obj = ResourceManager.GetObject("结草儿T砂土蓑衣", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 结草儿T草木蓑衣 {
-            get {
-                object obj = ResourceManager.GetObject("结草儿T草木蓑衣", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 结草贵妇T垃圾蓑衣 {
-            get {
-                object obj = ResourceManager.GetObject("结草贵妇T垃圾蓑衣", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 结草贵妇T砂土蓑衣 {
-            get {
-                object obj = ResourceManager.GetObject("结草贵妇T砂土蓑衣", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 结草贵妇T草木蓑衣 {
-            get {
-                object obj = ResourceManager.GetObject("结草贵妇T草木蓑衣", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6583,9 +3893,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 美洛耶塔T歌声形态 {
+        internal static System.Drawing.Bitmap 美录坦 {
             get {
-                object obj = ResourceManager.GetObject("美洛耶塔T歌声形态", resourceCulture);
+                object obj = ResourceManager.GetObject("美录坦", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6593,9 +3903,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 美洛耶塔T舞步形态 {
+        internal static System.Drawing.Bitmap 美录梅塔 {
             get {
-                object obj = ResourceManager.GetObject("美洛耶塔T舞步形态", resourceCulture);
+                object obj = ResourceManager.GetObject("美录梅塔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6633,69 +3943,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 聒噪鸟 {
-            get {
-                object obj = ResourceManager.GetObject("聒噪鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 肋骨海龟 {
-            get {
-                object obj = ResourceManager.GetObject("肋骨海龟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 肛头龙 {
-            get {
-                object obj = ResourceManager.GetObject("肛头龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 肯泰罗 {
-            get {
-                object obj = ResourceManager.GetObject("肯泰罗", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 胆小虫 {
             get {
                 object obj = ResourceManager.GetObject("胆小虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 胖丁 {
-            get {
-                object obj = ResourceManager.GetObject("胖丁", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 胖可丁 {
-            get {
-                object obj = ResourceManager.GetObject("胖可丁", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6723,26 +3973,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 胖胖哈力 {
-            get {
-                object obj = ResourceManager.GetObject("胖胖哈力", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 胡地 {
-            get {
-                object obj = ResourceManager.GetObject("胡地", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 脱壳忍者 {
             get {
                 object obj = ResourceManager.GetObject("脱壳忍者", resourceCulture);
@@ -6763,49 +3993,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 自爆磁怪 {
+        internal static System.Drawing.Bitmap 腾蹴小将 {
             get {
-                object obj = ResourceManager.GetObject("自爆磁怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 臭泥 {
-            get {
-                object obj = ResourceManager.GetObject("臭泥", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 臭泥T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("臭泥T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 臭臭泥 {
-            get {
-                object obj = ResourceManager.GetObject("臭臭泥", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 臭臭泥T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("臭臭泥T阿罗拉的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("腾蹴小将", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6833,89 +4023,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 舞天鹅 {
-            get {
-                object obj = ResourceManager.GetObject("舞天鹅", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 艾姆利多 {
-            get {
-                object obj = ResourceManager.GetObject("艾姆利多", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 艾路雷朵 {
             get {
                 object obj = ResourceManager.GetObject("艾路雷朵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 芭瓢虫 {
-            get {
-                object obj = ResourceManager.GetObject("芭瓢虫", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花叶蒂 {
-            get {
-                object obj = ResourceManager.GetObject("花叶蒂", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花岩怪 {
-            get {
-                object obj = ResourceManager.GetObject("花岩怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花椰猴 {
-            get {
-                object obj = ResourceManager.GetObject("花椰猴", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花椰猿 {
-            get {
-                object obj = ResourceManager.GetObject("花椰猿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花洁夫人 {
-            get {
-                object obj = ResourceManager.GetObject("花洁夫人", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -6933,66 +4043,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 花疗环环 {
-            get {
-                object obj = ResourceManager.GetObject("花疗环环", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花舞鸟T呼啦呼啦风格 {
-            get {
-                object obj = ResourceManager.GetObject("花舞鸟T呼啦呼啦风格", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花舞鸟T啪滋啪滋风格 {
-            get {
-                object obj = ResourceManager.GetObject("花舞鸟T啪滋啪滋风格", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花舞鸟T热辣热辣风格 {
-            get {
-                object obj = ResourceManager.GetObject("花舞鸟T热辣热辣风格", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花舞鸟T轻盈轻盈风格 {
-            get {
-                object obj = ResourceManager.GetObject("花舞鸟T轻盈轻盈风格", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 花蓓蓓 {
-            get {
-                object obj = ResourceManager.GetObject("花蓓蓓", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 芳香精 {
             get {
                 object obj = ResourceManager.GetObject("芳香精", resourceCulture);
@@ -7003,9 +4053,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 茸茸羊 {
+        internal static System.Drawing.Bitmap 苍响T剑之王 {
             get {
-                object obj = ResourceManager.GetObject("茸茸羊", resourceCulture);
+                object obj = ResourceManager.GetObject("苍响T剑之王", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7013,9 +4063,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 草苗龟 {
+        internal static System.Drawing.Bitmap 苍响T百战勇者 {
             get {
-                object obj = ResourceManager.GetObject("草苗龟", resourceCulture);
+                object obj = ResourceManager.GetObject("苍响T百战勇者", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7023,9 +4073,29 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 荧光鱼 {
+        internal static System.Drawing.Bitmap 苹裹龙 {
             get {
-                object obj = ResourceManager.GetObject("荧光鱼", resourceCulture);
+                object obj = ResourceManager.GetObject("苹裹龙", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 莫鲁贝可T满腹花纹 {
+            get {
+                object obj = ResourceManager.GetObject("莫鲁贝可T满腹花纹", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 莫鲁贝可T空腹花纹 {
+            get {
+                object obj = ResourceManager.GetObject("莫鲁贝可T空腹花纹", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7063,66 +4133,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 菊石兽 {
-            get {
-                object obj = ResourceManager.GetObject("菊石兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 菊草叶 {
-            get {
-                object obj = ResourceManager.GetObject("菊草叶", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 萌芽鹿T冬天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("萌芽鹿T冬天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 萌芽鹿T夏天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("萌芽鹿T夏天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 萌芽鹿T春天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("萌芽鹿T春天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 萌芽鹿T秋天的样子 {
-            get {
-                object obj = ResourceManager.GetObject("萌芽鹿T秋天的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 萌虻 {
             get {
                 object obj = ResourceManager.GetObject("萌虻", resourceCulture);
@@ -7143,9 +4153,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 蒂安希 {
+        internal static System.Drawing.Bitmap 葱游兵 {
             get {
-                object obj = ResourceManager.GetObject("蒂安希", resourceCulture);
+                object obj = ResourceManager.GetObject("葱游兵", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7163,9 +4173,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 蓝鳄 {
+        internal static System.Drawing.Bitmap 蓝鸦 {
             get {
-                object obj = ResourceManager.GetObject("蓝鳄", resourceCulture);
+                object obj = ResourceManager.GetObject("蓝鸦", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7173,9 +4183,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 蔓藤怪 {
+        internal static System.Drawing.Bitmap 藏玛然特T百战勇者 {
             get {
-                object obj = ResourceManager.GetObject("蔓藤怪", resourceCulture);
+                object obj = ResourceManager.GetObject("藏玛然特T百战勇者", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7183,9 +4193,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 藤藤蛇 {
+        internal static System.Drawing.Bitmap 藏玛然特T盾之王 {
             get {
-                object obj = ResourceManager.GetObject("藤藤蛇", resourceCulture);
+                object obj = ResourceManager.GetObject("藏玛然特T盾之王", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7193,29 +4203,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 蘑蘑菇 {
+        internal static System.Drawing.Bitmap 藏饱栗鼠 {
             get {
-                object obj = ResourceManager.GetObject("蘑蘑菇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 虚吾伊德 {
-            get {
-                object obj = ResourceManager.GetObject("虚吾伊德", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 虫宝包 {
-            get {
-                object obj = ResourceManager.GetObject("虫宝包", resourceCulture);
+                object obj = ResourceManager.GetObject("藏饱栗鼠", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7233,46 +4223,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 蚊香君 {
-            get {
-                object obj = ResourceManager.GetObject("蚊香君", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 蚊香泳士 {
-            get {
-                object obj = ResourceManager.GetObject("蚊香泳士", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 蚊香蛙皇 {
-            get {
-                object obj = ResourceManager.GetObject("蚊香蛙皇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 蚊香蝌蚪 {
-            get {
-                object obj = ResourceManager.GetObject("蚊香蝌蚪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 蛇纹熊 {
             get {
                 object obj = ResourceManager.GetObject("蛇纹熊", resourceCulture);
@@ -7283,9 +4233,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 蛋蛋 {
+        internal static System.Drawing.Bitmap 蛇纹熊T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("蛋蛋", resourceCulture);
+                object obj = ResourceManager.GetObject("蛇纹熊T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7296,36 +4246,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 蜂女王 {
             get {
                 object obj = ResourceManager.GetObject("蜂女王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 蜈蚣王 {
-            get {
-                object obj = ResourceManager.GetObject("蜈蚣王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 蜥蜴王 {
-            get {
-                object obj = ResourceManager.GetObject("蜥蜴王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 蜻蜻蜓 {
-            get {
-                object obj = ResourceManager.GetObject("蜻蜻蜓", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7363,19 +4283,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 袋兽 {
+        internal static System.Drawing.Bitmap 街头沙铃 {
             get {
-                object obj = ResourceManager.GetObject("袋兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 裙儿小姐 {
-            get {
-                object obj = ResourceManager.GetObject("裙儿小姐", resourceCulture);
+                object obj = ResourceManager.GetObject("街头沙铃", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7403,9 +4313,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 解放胡帕 {
+        internal static System.Drawing.Bitmap 诈唬魔 {
             get {
-                object obj = ResourceManager.GetObject("解放胡帕", resourceCulture);
+                object obj = ResourceManager.GetObject("诈唬魔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7413,9 +4323,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 触手百合 {
+        internal static System.Drawing.Bitmap 谜拟Q {
             get {
-                object obj = ResourceManager.GetObject("触手百合", resourceCulture);
+                object obj = ResourceManager.GetObject("谜拟Q", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7423,59 +4333,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 诅咒娃娃 {
+        internal static System.Drawing.Bitmap 谜拟QT显形 {
             get {
-                object obj = ResourceManager.GetObject("诅咒娃娃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 请假王 {
-            get {
-                object obj = ResourceManager.GetObject("请假王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 谜拟Ｑ {
-            get {
-                object obj = ResourceManager.GetObject("谜拟Ｑ", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 谜拟QT现形的样子 {
-            get {
-                object obj = ResourceManager.GetObject("谜拟QT现形的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 谢米T天空形态 {
-            get {
-                object obj = ResourceManager.GetObject("谢米T天空形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 谢米T陆上形态 {
-            get {
-                object obj = ResourceManager.GetObject("谢米T陆上形态", resourceCulture);
+                object obj = ResourceManager.GetObject("谜拟QT显形", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7523,49 +4383,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 负电拍拍 {
+        internal static System.Drawing.Bitmap 贪心栗鼠 {
             get {
-                object obj = ResourceManager.GetObject("负电拍拍", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 败露球菇 {
-            get {
-                object obj = ResourceManager.GetObject("败露球菇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 费洛美螂 {
-            get {
-                object obj = ResourceManager.GetObject("费洛美螂", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 赤面龙 {
-            get {
-                object obj = ResourceManager.GetObject("赤面龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 赫拉克罗斯 {
-            get {
-                object obj = ResourceManager.GetObject("赫拉克罗斯", resourceCulture);
+                object obj = ResourceManager.GetObject("贪心栗鼠", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7613,9 +4433,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 超级七夕青鸟 {
+        internal static System.Drawing.Bitmap 超能妙喵雄性 {
             get {
-                object obj = ResourceManager.GetObject("超级七夕青鸟", resourceCulture);
+                object obj = ResourceManager.GetObject("超能妙喵雄性", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -7623,489 +4443,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 超级冰鬼护 {
+        internal static System.Drawing.Bitmap 超能妙喵雌性 {
             get {
-                object obj = ResourceManager.GetObject("超级冰鬼护", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级凯罗斯 {
-            get {
-                object obj = ResourceManager.GetObject("超级凯罗斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级勾魂眼 {
-            get {
-                object obj = ResourceManager.GetObject("超级勾魂眼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级化石翼龙 {
-            get {
-                object obj = ResourceManager.GetObject("超级化石翼龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级呆壳兽 {
-            get {
-                object obj = ResourceManager.GetObject("超级呆壳兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级喷火驼 {
-            get {
-                object obj = ResourceManager.GetObject("超级喷火驼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级喷火龙X {
-            get {
-                object obj = ResourceManager.GetObject("超级喷火龙X", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级喷火龙Y {
-            get {
-                object obj = ResourceManager.GetObject("超级喷火龙Y", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级大嘴娃 {
-            get {
-                object obj = ResourceManager.GetObject("超级大嘴娃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级大比鸟 {
-            get {
-                object obj = ResourceManager.GetObject("超级大比鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级大针蜂 {
-            get {
-                object obj = ResourceManager.GetObject("超级大针蜂", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级大钢蛇 {
-            get {
-                object obj = ResourceManager.GetObject("超级大钢蛇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级妙蛙花 {
-            get {
-                object obj = ResourceManager.GetObject("超级妙蛙花", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级巨沼怪 {
-            get {
-                object obj = ResourceManager.GetObject("超级巨沼怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级巨牙鲨 {
-            get {
-                object obj = ResourceManager.GetObject("超级巨牙鲨", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级巨金怪 {
-            get {
-                object obj = ResourceManager.GetObject("超级巨金怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级巨钳螳螂 {
-            get {
-                object obj = ResourceManager.GetObject("超级巨钳螳螂", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级差不多娃娃 {
-            get {
-                object obj = ResourceManager.GetObject("超级差不多娃娃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级恰雷姆 {
-            get {
-                object obj = ResourceManager.GetObject("超级恰雷姆", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级拉帝亚斯 {
-            get {
-                object obj = ResourceManager.GetObject("超级拉帝亚斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级拉帝欧斯 {
-            get {
-                object obj = ResourceManager.GetObject("超级拉帝欧斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级暴雪王 {
-            get {
-                object obj = ResourceManager.GetObject("超级暴雪王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级暴飞龙 {
-            get {
-                object obj = ResourceManager.GetObject("超级暴飞龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级暴鲤龙 {
-            get {
-                object obj = ResourceManager.GetObject("超级暴鲤龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级水箭龟 {
-            get {
-                object obj = ResourceManager.GetObject("超级水箭龟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级沙奈朵 {
-            get {
-                object obj = ResourceManager.GetObject("超级沙奈朵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级波士可多拉 {
-            get {
-                object obj = ResourceManager.GetObject("超级波士可多拉", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级火焰鸡 {
-            get {
-                object obj = ResourceManager.GetObject("超级火焰鸡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级烈咬陆鲨 {
-            get {
-                object obj = ResourceManager.GetObject("超级烈咬陆鲨", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级烈空坐 {
-            get {
-                object obj = ResourceManager.GetObject("超级烈空坐", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级班基拉斯 {
-            get {
-                object obj = ResourceManager.GetObject("超级班基拉斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级电龙 {
-            get {
-                object obj = ResourceManager.GetObject("超级电龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级耿鬼 {
-            get {
-                object obj = ResourceManager.GetObject("超级耿鬼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级胡地 {
-            get {
-                object obj = ResourceManager.GetObject("超级胡地", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级艾路雷朵 {
-            get {
-                object obj = ResourceManager.GetObject("超级艾路雷朵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级蒂安希 {
-            get {
-                object obj = ResourceManager.GetObject("超级蒂安希", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级蜥蜴王 {
-            get {
-                object obj = ResourceManager.GetObject("超级蜥蜴王", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级袋兽 {
-            get {
-                object obj = ResourceManager.GetObject("超级袋兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级诅咒娃娃 {
-            get {
-                object obj = ResourceManager.GetObject("超级诅咒娃娃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级赫拉克罗斯 {
-            get {
-                object obj = ResourceManager.GetObject("超级赫拉克罗斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级超梦X {
-            get {
-                object obj = ResourceManager.GetObject("超级超梦X", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级超梦Y {
-            get {
-                object obj = ResourceManager.GetObject("超级超梦Y", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级路卡利欧 {
-            get {
-                object obj = ResourceManager.GetObject("超级路卡利欧", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级长耳兔 {
-            get {
-                object obj = ResourceManager.GetObject("超级长耳兔", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级阿勃梭鲁 {
-            get {
-                object obj = ResourceManager.GetObject("超级阿勃梭鲁", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级雷电兽 {
-            get {
-                object obj = ResourceManager.GetObject("超级雷电兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超级黑鲁加 {
-            get {
-                object obj = ResourceManager.GetObject("超级黑鲁加", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超能妙喵T雄性的样子 {
-            get {
-                object obj = ResourceManager.GetObject("超能妙喵T雄性的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 超能妙喵T雌性的样子 {
-            get {
-                object obj = ResourceManager.GetObject("超能妙喵T雌性的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("超能妙喵雌性", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8123,16 +4463,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 超音蝠 {
-            get {
-                object obj = ResourceManager.GetObject("超音蝠", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 路卡利欧 {
             get {
                 object obj = ResourceManager.GetObject("路卡利欧", resourceCulture);
@@ -8143,9 +4473,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 跳跳猪 {
+        internal static System.Drawing.Bitmap 踏冰人偶 {
             get {
-                object obj = ResourceManager.GetObject("跳跳猪", resourceCulture);
+                object obj = ResourceManager.GetObject("踏冰人偶", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8153,9 +4483,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 车轮球 {
+        internal static System.Drawing.Bitmap 轰擂金刚猩 {
             get {
-                object obj = ResourceManager.GetObject("车轮球", resourceCulture);
+                object obj = ResourceManager.GetObject("轰擂金刚猩", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8173,9 +4503,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 达克莱伊 {
+        internal static System.Drawing.Bitmap 达摩狒狒不倒翁模式 {
             get {
-                object obj = ResourceManager.GetObject("达克莱伊", resourceCulture);
+                object obj = ResourceManager.GetObject("达摩狒狒不倒翁模式", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8183,9 +4513,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 达摩狒狒T普通模式 {
+        internal static System.Drawing.Bitmap 达摩狒狒不倒翁模式T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("达摩狒狒T普通模式", resourceCulture);
+                object obj = ResourceManager.GetObject("达摩狒狒不倒翁模式T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8193,9 +4523,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 达摩狒狒T达摩模式 {
+        internal static System.Drawing.Bitmap 达摩狒狒通常模式 {
             get {
-                object obj = ResourceManager.GetObject("达摩狒狒T达摩模式", resourceCulture);
+                object obj = ResourceManager.GetObject("达摩狒狒通常模式", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8203,19 +4533,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 过动猿 {
+        internal static System.Drawing.Bitmap 达摩狒狒通常模式T伽勒尔 {
             get {
-                object obj = ResourceManager.GetObject("过动猿", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 远古巨蜓 {
-            get {
-                object obj = ResourceManager.GetObject("远古巨蜓", resourceCulture);
+                object obj = ResourceManager.GetObject("达摩狒狒通常模式T伽勒尔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8233,9 +4553,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 迷你龙 {
+        internal static System.Drawing.Bitmap 迷布莉姆 {
             get {
-                object obj = ResourceManager.GetObject("迷你龙", resourceCulture);
+                object obj = ResourceManager.GetObject("迷布莉姆", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8243,19 +4563,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 迷唇姐 {
+        internal static System.Drawing.Bitmap 逐电犬 {
             get {
-                object obj = ResourceManager.GetObject("迷唇姐", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 迷唇娃 {
-            get {
-                object obj = ResourceManager.GetObject("迷唇娃", resourceCulture);
+                object obj = ResourceManager.GetObject("逐电犬", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8293,9 +4603,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 野蛮鲈鱼T红条纹的样子 {
+        internal static System.Drawing.Bitmap 野蛮鲈鱼红纹之姿 {
             get {
-                object obj = ResourceManager.GetObject("野蛮鲈鱼T红条纹的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("野蛮鲈鱼红纹之姿", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8303,19 +4613,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 野蛮鲈鱼T蓝条纹的样子 {
+        internal static System.Drawing.Bitmap 野蛮鲈鱼蓝纹之姿 {
             get {
-                object obj = ResourceManager.GetObject("野蛮鲈鱼T蓝条纹的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 金属怪 {
-            get {
-                object obj = ResourceManager.GetObject("金属怪", resourceCulture);
+                object obj = ResourceManager.GetObject("野蛮鲈鱼蓝纹之姿", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8333,19 +4633,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 钢炮臂虾 {
+        internal static System.Drawing.Bitmap 钢铠鸦 {
             get {
-                object obj = ResourceManager.GetObject("钢炮臂虾", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 钥圈儿 {
-            get {
-                object obj = ResourceManager.GetObject("钥圈儿", resourceCulture);
+                object obj = ResourceManager.GetObject("钢铠鸦", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8373,46 +4663,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 铁哑铃 {
-            get {
-                object obj = ResourceManager.GetObject("铁哑铃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 铁壳蛹 {
-            get {
-                object obj = ResourceManager.GetObject("铁壳蛹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 铁掌力士 {
-            get {
-                object obj = ResourceManager.GetObject("铁掌力士", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 铁火辉夜 {
-            get {
-                object obj = ResourceManager.GetObject("铁火辉夜", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 铁炮鱼 {
             get {
                 object obj = ResourceManager.GetObject("铁炮鱼", resourceCulture);
@@ -8426,16 +4676,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 铁甲蛹 {
             get {
                 object obj = ResourceManager.GetObject("铁甲蛹", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 铁臂枪虾 {
-            get {
-                object obj = ResourceManager.GetObject("铁臂枪虾", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8483,9 +4723,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 铃铛响 {
+        internal static System.Drawing.Bitmap 铜象 {
             get {
-                object obj = ResourceManager.GetObject("铃铛响", resourceCulture);
+                object obj = ResourceManager.GetObject("铜象", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8503,9 +4743,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 铳嘴大鸟 {
+        internal static System.Drawing.Bitmap 铝钢龙 {
             get {
-                object obj = ResourceManager.GetObject("铳嘴大鸟", resourceCulture);
+                object obj = ResourceManager.GetObject("铝钢龙", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8523,6 +4763,176 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽1 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽10 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽10", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽11 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽12 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽13 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽13", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽14 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽14", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽15 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽15", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽16 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽16", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽17 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽17", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽2 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽3 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽4 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽5 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽6 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽7 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽8 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 银伴战兽9 {
+            get {
+                object obj = ResourceManager.GetObject("银伴战兽9", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 锹农炮虫 {
             get {
                 object obj = ResourceManager.GetObject("锹农炮虫", resourceCulture);
@@ -8533,39 +4943,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 镰刀盔 {
+        internal static System.Drawing.Bitmap 长毛巨魔 {
             get {
-                object obj = ResourceManager.GetObject("镰刀盔", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 长尾怪手 {
-            get {
-                object obj = ResourceManager.GetObject("长尾怪手", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 长尾火狐 {
-            get {
-                object obj = ResourceManager.GetObject("长尾火狐", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 长毛狗 {
-            get {
-                object obj = ResourceManager.GetObject("长毛狗", resourceCulture);
+                object obj = ResourceManager.GetObject("长毛巨魔", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8593,16 +4973,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 长耳兔 {
-            get {
-                object obj = ResourceManager.GetObject("长耳兔", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 长鼻叶 {
             get {
                 object obj = ResourceManager.GetObject("长鼻叶", resourceCulture);
@@ -8613,99 +4983,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 闪电鸟 {
+        internal static System.Drawing.Bitmap 闪焰王牌 {
             get {
-                object obj = ResourceManager.GetObject("闪电鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 阿利多斯 {
-            get {
-                object obj = ResourceManager.GetObject("阿利多斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 阿勃梭鲁 {
-            get {
-                object obj = ResourceManager.GetObject("阿勃梭鲁", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 阿尔宙斯 {
-            get {
-                object obj = ResourceManager.GetObject("阿尔宙斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 阿柏怪 {
-            get {
-                object obj = ResourceManager.GetObject("阿柏怪", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 阿柏蛇 {
-            get {
-                object obj = ResourceManager.GetObject("阿柏蛇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 隆隆岩 {
-            get {
-                object obj = ResourceManager.GetObject("隆隆岩", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 隆隆岩T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("隆隆岩T阿罗拉的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 隆隆石 {
-            get {
-                object obj = ResourceManager.GetObject("隆隆石", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 隆隆石T阿罗拉的样子 {
-            get {
-                object obj = ResourceManager.GetObject("隆隆石T阿罗拉的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("闪焰王牌", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8723,9 +5003,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 雨翅蛾 {
+        internal static System.Drawing.Bitmap 雪吞虫 {
             get {
-                object obj = ResourceManager.GetObject("雨翅蛾", resourceCulture);
+                object obj = ResourceManager.GetObject("雪吞虫", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8763,6 +5043,16 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 雪绒蛾 {
+            get {
+                object obj = ResourceManager.GetObject("雪绒蛾", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 雷丘 {
             get {
                 object obj = ResourceManager.GetObject("雷丘", resourceCulture);
@@ -8773,9 +5063,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 雷丘T阿罗拉的样子 {
+        internal static System.Drawing.Bitmap 雷丘T阿罗拉 {
             get {
-                object obj = ResourceManager.GetObject("雷丘T阿罗拉的样子", resourceCulture);
+                object obj = ResourceManager.GetObject("雷丘T阿罗拉", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8793,76 +5083,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 雷公 {
-            get {
-                object obj = ResourceManager.GetObject("雷公", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 雷吉奇卡斯 {
-            get {
-                object obj = ResourceManager.GetObject("雷吉奇卡斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 雷吉斯奇鲁 {
-            get {
-                object obj = ResourceManager.GetObject("雷吉斯奇鲁", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 雷吉洛克 {
-            get {
-                object obj = ResourceManager.GetObject("雷吉洛克", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 雷吉艾斯 {
-            get {
-                object obj = ResourceManager.GetObject("雷吉艾斯", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 雷电云T化身形态 {
-            get {
-                object obj = ResourceManager.GetObject("雷电云T化身形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 雷电云T灵兽形态 {
-            get {
-                object obj = ResourceManager.GetObject("雷电云T灵兽形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 雷电兽 {
             get {
                 object obj = ResourceManager.GetObject("雷电兽", resourceCulture);
@@ -8873,9 +5093,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 雷电斑马 {
+        internal static System.Drawing.Bitmap 雷鸟海兽 {
             get {
-                object obj = ResourceManager.GetObject("雷电斑马", resourceCulture);
+                object obj = ResourceManager.GetObject("雷鸟海兽", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8883,9 +5103,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 霏欧纳 {
+        internal static System.Drawing.Bitmap 雷鸟龙 {
             get {
-                object obj = ResourceManager.GetObject("霏欧纳", resourceCulture);
+                object obj = ResourceManager.GetObject("雷鸟龙", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8893,9 +5113,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 霓虹鱼 {
+        internal static System.Drawing.Bitmap 霜奶仙T三色综合 {
             get {
-                object obj = ResourceManager.GetObject("霓虹鱼", resourceCulture);
+                object obj = ResourceManager.GetObject("霜奶仙T三色综合", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8903,9 +5123,79 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 露力丽 {
+        internal static System.Drawing.Bitmap 霜奶仙T奶香抹茶 {
             get {
-                object obj = ResourceManager.GetObject("露力丽", resourceCulture);
+                object obj = ResourceManager.GetObject("霜奶仙T奶香抹茶", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T奶香柠檬 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T奶香柠檬", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T奶香红钻 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T奶香红钻", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T奶香薄荷 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T奶香薄荷", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T奶香雪盐 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T奶香雪盐", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T奶香香草 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T奶香香草", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T焦糖综合 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T焦糖综合", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 霜奶仙T红钻综合 {
+            get {
+                object obj = ResourceManager.GetObject("霜奶仙T红钻综合", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -8933,36 +5223,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 霹雳电球 {
-            get {
-                object obj = ResourceManager.GetObject("霹雳电球", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 青绵鸟 {
-            get {
-                object obj = ResourceManager.GetObject("青绵鸟", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 青藤蛇 {
-            get {
-                object obj = ResourceManager.GetObject("青藤蛇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 青铜钟 {
             get {
                 object obj = ResourceManager.GetObject("青铜钟", resourceCulture);
@@ -8983,16 +5243,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 音箱蟀 {
-            get {
-                object obj = ResourceManager.GetObject("音箱蟀", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 顽皮熊猫 {
             get {
                 object obj = ResourceManager.GetObject("顽皮熊猫", resourceCulture);
@@ -9003,9 +5253,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 顽皮雷弹 {
+        internal static System.Drawing.Bitmap 颤弦蝾螈T低调的样子 {
             get {
-                object obj = ResourceManager.GetObject("顽皮雷弹", resourceCulture);
+                object obj = ResourceManager.GetObject("颤弦蝾螈T低调的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -9013,9 +5263,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 顿甲 {
+        internal static System.Drawing.Bitmap 颤弦蝾螈T高调的样子 {
             get {
-                object obj = ResourceManager.GetObject("顿甲", resourceCulture);
+                object obj = ResourceManager.GetObject("颤弦蝾螈T高调的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -9043,69 +5293,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 风铃铃 {
-            get {
-                object obj = ResourceManager.GetObject("风铃铃", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 飘浮泡泡 {
-            get {
-                object obj = ResourceManager.GetObject("飘浮泡泡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 飘浮泡泡T太阳的样子 {
-            get {
-                object obj = ResourceManager.GetObject("飘浮泡泡T太阳的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 飘浮泡泡T雨水的样子 {
-            get {
-                object obj = ResourceManager.GetObject("飘浮泡泡T雨水的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 飘浮泡泡T雪云的样子 {
-            get {
-                object obj = ResourceManager.GetObject("飘浮泡泡T雪云的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 飘飘球 {
             get {
                 object obj = ResourceManager.GetObject("飘飘球", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 飞天螳螂 {
-            get {
-                object obj = ResourceManager.GetObject("飞天螳螂", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -9133,16 +5323,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 饭匙蛇 {
-            get {
-                object obj = ResourceManager.GetObject("饭匙蛇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 驹刀小兵 {
             get {
                 object obj = ResourceManager.GetObject("驹刀小兵", resourceCulture);
@@ -9163,49 +5343,9 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 骑拉帝纳T别种形态 {
-            get {
-                object obj = ResourceManager.GetObject("骑拉帝纳T别种形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 骑拉帝纳T起源形态 {
-            get {
-                object obj = ResourceManager.GetObject("骑拉帝纳T起源形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 高傲雉鸡 {
             get {
                 object obj = ResourceManager.GetObject("高傲雉鸡", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 鬃岩狼人T白昼的样子 {
-            get {
-                object obj = ResourceManager.GetObject("鬃岩狼人T白昼的样子", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 鬃岩狼人T黑夜的样子 {
-            get {
-                object obj = ResourceManager.GetObject("鬃岩狼人T黑夜的样子", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -9233,16 +5373,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 魅力喵 {
-            get {
-                object obj = ResourceManager.GetObject("魅力喵", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 魔墙人偶 {
             get {
                 object obj = ResourceManager.GetObject("魔墙人偶", resourceCulture);
@@ -9253,9 +5383,29 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 魔墙人偶T伽勒尔 {
+            get {
+                object obj = ResourceManager.GetObject("魔墙人偶T伽勒尔", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 魔尼尼 {
             get {
                 object obj = ResourceManager.GetObject("魔尼尼", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 魔灵珊瑚 {
+            get {
+                object obj = ResourceManager.GetObject("魔灵珊瑚", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -9283,89 +5433,29 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap 鳃鱼海兽 {
+            get {
+                object obj = ResourceManager.GetObject("鳃鱼海兽", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap 鳃鱼龙 {
+            get {
+                object obj = ResourceManager.GetObject("鳃鱼龙", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap 鳞甲龙 {
             get {
                 object obj = ResourceManager.GetObject("鳞甲龙", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 鸭嘴宝宝 {
-            get {
-                object obj = ResourceManager.GetObject("鸭嘴宝宝", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 鸭嘴火兽 {
-            get {
-                object obj = ResourceManager.GetObject("鸭嘴火兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 鸭嘴炎兽 {
-            get {
-                object obj = ResourceManager.GetObject("鸭嘴炎兽", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 鸭宝宝 {
-            get {
-                object obj = ResourceManager.GetObject("鸭宝宝", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 麒麟奇 {
-            get {
-                object obj = ResourceManager.GetObject("麒麟奇", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 麻麻小鱼 {
-            get {
-                object obj = ResourceManager.GetObject("麻麻小鱼", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 麻麻鳗 {
-            get {
-                object obj = ResourceManager.GetObject("麻麻鳗", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 麻麻鳗鱼王 {
-            get {
-                object obj = ResourceManager.GetObject("麻麻鳗鱼王", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -9413,36 +5503,6 @@ namespace PokemenSearch {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap 黑暗鸦 {
-            get {
-                object obj = ResourceManager.GetObject("黑暗鸦", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 黑眼鳄 {
-            get {
-                object obj = ResourceManager.GetObject("黑眼鳄", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 黑鲁加 {
-            get {
-                object obj = ResourceManager.GetObject("黑鲁加", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
         internal static System.Drawing.Bitmap 齿轮儿 {
             get {
                 object obj = ResourceManager.GetObject("齿轮儿", resourceCulture);
@@ -9466,26 +5526,6 @@ namespace PokemenSearch {
         internal static System.Drawing.Bitmap 齿轮组 {
             get {
                 object obj = ResourceManager.GetObject("齿轮组", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 龙卷云T化身形态 {
-            get {
-                object obj = ResourceManager.GetObject("龙卷云T化身形态", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
-        /// </summary>
-        internal static System.Drawing.Bitmap 龙卷云T灵兽形态 {
-            get {
-                object obj = ResourceManager.GetObject("龙卷云T灵兽形态", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
